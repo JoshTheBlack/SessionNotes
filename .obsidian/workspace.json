@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Log/Campaign Background.md",
+                "file": "Campaign Log/The Party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Background"
+              "title": "The Party"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Log/Campaign Background.md",
+                "file": "Campaign Log/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign Background"
+              "title": "Backlinks for The Party"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Log/Campaign Background.md",
+                "file": "Campaign Log/The Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Campaign Background"
+              "title": "Outgoing links from The Party"
             }
           },
           {
@@ -170,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Log/Campaign Background.md"
+                "file": "Campaign Log/The Party.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Campaign Background"
+              "title": "Outline of The Party"
             }
           }
         ],
@@ -194,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c332ca10affe7dc",
+  "active": "027669e80542eb89",
   "lastOpenFiles": [
+    "Campaign Log/Campaign Background.md",
     "netlify.toml.md",
     "netlify.toml",
-    "Campaign Log/Campaign Background.md",
     "README.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
     "Campaign Log/The Party.md",
