@@ -8,7 +8,7 @@ LANDING_BUTTON = "Show me the notes👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Adventures on the Sword Coast"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "README"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Campaign Session Notes"
 PYTHON_VERSION = "3.8"
