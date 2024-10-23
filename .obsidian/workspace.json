@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Log/The Party.md",
+                "file": "The Party/The Party.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,16 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f79b6be12386d6e",
+  "active": "9c0dfdd5443ed487",
   "lastOpenFiles": [
+    "The Party",
     "home.md",
     "README.md",
-    "Campaign Log/The Party.md",
+    "The Party/The Party.md",
     "Campaign Log/Campaign Background.md",
     "netlify.toml.md",
     "netlify.toml",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
-    "Campaign Log/Party Inventory.md",
+    "The Party/Party Inventory.md",
     "Factions/The Council of Four.md",
     "Factions/kenku killers.md",
     "NPCs/Thalamra Vanthampur.md",
