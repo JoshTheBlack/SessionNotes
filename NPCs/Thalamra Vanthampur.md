@@ -1,0 +1,4 @@
+matriarch of the [Vanthampur](https://forgottenrealms.fandom.com/wiki/Vanthampur "Vanthampur") [patriar](https://forgottenrealms.fandom.com/wiki/Patriar "Patriar") family and one of the members of the [Council of Four](https://forgottenrealms.fandom.com/wiki/Council_of_Four "Council of Four"), the body that governed the city of [Baldur's Gate](https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate "Baldur's Gate") during the late 15th century [DR](https://forgottenrealms.fandom.com/wiki/DR "DR"). While she was openly ruthless, the fact that she worshiped [devils](https://forgottenrealms.fandom.com/wiki/Devil "Devil") of the [Nine Hells](https://forgottenrealms.fandom.com/wiki/Nine_Hells "Nine Hells") was a family secret
+
+![[Thalamra.webp]]
+#npc 
