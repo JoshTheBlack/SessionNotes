@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "The Party"
             }
+          },
+          {
+            "id": "1f79b6be12386d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "home"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "13d20f2dfc8a8096",
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Log/The Party.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Party"
+              "title": "Backlinks for home"
             }
           },
           {
@@ -143,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Log/The Party.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Party"
+              "title": "Outgoing links from home"
             }
           },
           {
@@ -170,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Log/The Party.md"
+                "file": "home.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Party"
+              "title": "Outline of home"
             }
           }
         ],
@@ -194,14 +208,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "027669e80542eb89",
+  "active": "1f79b6be12386d6e",
   "lastOpenFiles": [
+    "Campaign Log/The Party.md",
+    "home.md",
     "Campaign Log/Campaign Background.md",
     "netlify.toml.md",
     "netlify.toml",
     "README.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
-    "Campaign Log/The Party.md",
     "Campaign Log/Party Inventory.md",
     "Factions/The Council of Four.md",
     "Factions/kenku killers.md",
