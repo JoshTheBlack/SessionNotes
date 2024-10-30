@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7306fa1d8fc40a12",
+        "id": "503e43a1081ab262",
         "type": "tabs",
         "children": [
           {
-            "id": "1f79b6be12386d6e",
+            "id": "9ad0ebfa3725f610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Campaign Log/Campaign Background.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Campaign Background"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#session",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Campaign Log/Campaign Background.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Campaign Background"
             }
           },
           {
@@ -154,9 +154,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "d4b0c974a44e9b4a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -174,42 +184,53 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "1f79b6be12386d6e",
+  "active": "9ad0ebfa3725f610",
   "lastOpenFiles": [
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
-    "The Party/Party Inventory.md",
-    "The Party/The Party.md",
-    "Campaign Log/Campaign Background.md",
+    "Images/Statblocks/Bandit.png",
+    "Images/Statblocks/Captain Sesprin.png",
+    "Images/Statblocks",
+    "Images/Locations",
+    "Images/NPCs",
+    "NPCs/Murosko Sesprin (Captain).md",
     "README.md",
+    "Campaign Log/Campaign Background.md",
+    "The Party/=The Party=.md",
+    "The Party/=The Party=  Inventory.md",
+    "The Party/Thomus (Unknown Warpriest, Thomas).md",
+    "The Party/Salah Secumber (Human Cleric, Hal).md",
+    "The Party/Iliran Tilorri (Elf Wizard, Mike).md",
+    "The Party/Baktha Tassup (Elf Paladin, Ryan).md",
+    "The Party/Parry Hotter (Human Fighter, Josh).md",
+    "NPCs/Oshallah.md",
+    "Faltin.md",
+    "Factions/Dead Three.md",
+    "Locations/Elfsong Tavern.md",
+    "Factions/The Flaming Fist.md",
+    "Factions/The Council of Four.md",
+    "NPCs/Darmin Zodge (Captain).md",
+    "NPCs/Tarina (Spy).md",
+    "Locations/Elturgard.md",
+    "Locations/Elturel.md",
     "Factions/Hellriders.md",
+    "NPCs/Ulder Ravenguard.md",
+    "NPCs/Thalamra Vanthampur.md",
     "Campaign Log/Untitled.canvas",
     "The Party",
     "home.md",
-    "netlify.toml.md",
     "netlify.toml",
-    "Factions/The Council of Four.md",
-    "Factions/kenku killers.md",
-    "NPCs/Thalamra Vanthampur.md",
-    "NPCs/Ulder Ravenguard.md",
-    "Locations/Elfsong Tavern.md",
-    "Locations/The Low Lantern.md",
-    "NPCs/Captain Darmin Zodge.md",
-    "NPCs/Falten, Barkeep.md",
-    "NPCs/Tarina, Spy.md",
-    "Factions/The Flaming Fist.md",
-    "Images/UlderRavengard.webp",
-    "Images/Thalamra.webp",
+    "Images/NPCs/UlderRavengard.webp",
+    "Images/NPCs/Thalamra.webp",
     "Images",
-    "Images/Low_lantern_-_PaF.webp",
-    "Images/Low_lantern.webp",
-    "Images/Captain Darmin Zodge.jpeg",
+    "Images/Locations/Low_lantern_-_PaF.webp",
+    "Images/Locations/Low_lantern.webp",
+    "Images/NPCs/Captain Darmin Zodge.jpeg",
     "Campaign Log",
     "NPCs",
     "Factions",
     "Locations",
-    "Images/Elfsong_beholder.webp",
-    "Images/Elfsong_Tavern_5e.webp",
-    "Images/Falten.webp",
-    "Factions/Dead Three.md"
+    "Images/Locations/Elfsong_beholder.webp",
+    "Images/Locations/Elfsong_Tavern_5e.webp",
+    "Images/NPCs/Falten.webp"
   ]
 }

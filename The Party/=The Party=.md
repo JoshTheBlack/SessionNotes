@@ -1,0 +1,5 @@
+- [[Parry Hotter (Human Fighter, Josh)]]
+- [[Baktha Tassup (Elf Paladin, Ryan)]]
+- [[Iliran Tilorri (Elf Wizard, Mike)]]
+- [[Salah Secumber (Human Cleric, Hal)]]
+- [[Thomus (Unknown Warpriest, Thomas)]]
