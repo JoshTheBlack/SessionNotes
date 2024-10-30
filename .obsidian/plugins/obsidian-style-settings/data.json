@@ -1,0 +1,20 @@
+{
+  "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon",
+  "ebullientworks-theme-16@@ebullientworks-nix-checkbox": false,
+  "ebullientworks-theme-16@@ebullientworks-reverse-view-header-actions": false,
+  "ebullientworks-theme-16@@ebullientworks-show-edit-mode-external-links": false,
+  "ebullientworks-theme-16@@ebullientworks-floating-frontmatter": false,
+  "ebullientworks-theme-16@@ebullientworks-hide-embedded-heading": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@toggle-bg-panel-page": false,
+  "blue-topaz-theme@@bg-panel-page-option": "panel-page-bg-theme-light-wall",
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@scrollbar-style-option": "default-scrollbar",
+  "blue-topaz-theme@@view-button-front": false,
+  "blue-topaz-theme@@tab-title-bar-position": false,
+  "blue-topaz-theme@@toggle-divider-lines": false,
+  "blue-topaz-theme@@toggle-header-bottom-line": false,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default"
+}

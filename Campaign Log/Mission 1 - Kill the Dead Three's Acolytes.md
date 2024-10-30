@@ -16,3 +16,48 @@ Hal asks for [[Tarina, Spy]] and [[Faltin]] seems a little taken aback by that r
 [[Tarina, Spy]] seems relieved when we ask about information on [[Dead Three]].  The information will cost us a bit of protective action.  She has stolen from some unsavory individuals and needs backup as her comeuppance is nigh. 8-10 scoundrels, her former crew.
 
 We rent the largest room and set a trap for them.
+
+Oshallah is in the largest room, so we rent the room above the bay window.
+
+When the ghostly Elvish song the tavern is known for was sung, the lyrics were different than they normally are.  They were:
+
+>*O sing a song of Elturel*
+*Of water, woods, and hill*
+*The sun dawns on her ruddy cliffs*
+*And fields green and still.*
+*This land of long-abiding joy*
+*Home of the strong and brave*
+*Renowned by all, across the realms,*
+*And never once a slave.*
+>
+>*O sing a song of Elturel*
+*When foes are at her door*
+*Her fields torn by cloven feet*
+*From some infernal shore.*
+*Arise the mighty Hellriders*
+*Take up your swift, keen swords*
+*Then charge into the hellish fray*
+*And scatter devil hordes.*
+>
+>*O sing a song of Elturel*
+*And when the night does fall*
+*Sleep safe beneath Companion's light*
+*Until the dawn does call.*
+*We're bound by mortal covenant*
+*That only ends with death*
+*And so we'll sing of Elturel*
+*Until our final breath.*
+
+The [[Hellriders]] sung of in the song are Paladins sworn to protect Elturel.  It has been speculated that they fought their way into Hell itself.
+
+### The Fight
+We hear a bit of a commotion arise downstairs and steel ourselves for a potential conflict.
+
+Captain Sesprin (Deadeye) is shocked at the trap we have sprung for him.
+Baktha makes the first kill, taking down one of the goons with a single blow.  Iliran the second, then all of Sesprin's companians drop their weapons.  We dispatch ourselves of Captain Sesprin fairly quickly while his hired swords flee in fear.
+Thomus took an awful blow and fell unconscious, so we took some time to heal him up.  
+
+The barkeep is unhappy with the mess.  He bans [[Tarina, Spy]] permanently, but allows her to stay the night.
+
+### The Intel
+Incoming....
