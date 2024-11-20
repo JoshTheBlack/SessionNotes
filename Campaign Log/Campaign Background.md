@@ -7,7 +7,7 @@ The entire party shares a dark secret.  A decade ago, we schemed together to ste
 *  [[Baktha Tassup (Elf Paladin, Ryan)]] was *The Burglar*.  The money may have belonged to [[The Low Lantern]], but all he needed to do was reach out and grab it.  He has since dedicated himself to [[Torm]] and has become quite the Dudley.  
 - [[Thomus (Unknown Warpriest, Thomas)]] was *The Distraction*.  He sang an aria for the patrons of [[The Low Lantern]] while we pilfered the managers office of gold.  He has since gone on the 'roids' and bulked up.  Last I heard, he was a brawler or something.
 - [[Salah Secumber (Human Cleric, Hal)]] was *The Lockpicker*.  He jimmied the door to the office.
-- I, [[Parry Hotter (Human Fighter, Josh)]], was *The Lookout*.  After all, watching out for trouble is the best way to avoid it.  I made sure the manager stayed busy and had no cause to visit the office.  
+- I, [[Ira Ferox (Human Fighter, Josh)]], was *The Lookout*.  After all, watching out for trouble is the best way to avoid it.  I made sure the manager stayed busy and had no cause to visit the office.  
 
 After the [[kenku killers]] failed to exact revenge, the owner of [[The Low Lantern]] tried to exact justice by calling the [[The Flaming Fist]] and offering a reward.  It's been long enough now the heat has long since died down.  I'm actually back in Baldur's Gate, unimpeded.  
 

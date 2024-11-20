@@ -60,7 +60,7 @@ We hear a bit of a commotion arise downstairs and steel ourselves for a potentia
 | ![[Captain Sesprin.png]] | ![[Bandit.png]] |
 | ------------------------ | --------------- |
 
-[[Murosko Sesprin (Captain)]] (Deadeye) and his band of lackeys clamber up the stairs, gruffly asking where [[Tarina (Spy)]] is, unwise to the trap we have set for them.  I casually point to the room where we have tucked [[Tarina (Spy)]] and [[Thomus (Unknown Warpriest, Thomas)]] as the rest of [[=The Party=]]  pretends to play bones.
+[[Murosko Sesprin (Captain)]] (Deadeye) and his band of lackeys clamber up the stairs, gruffly asking where [[Tarina (Spy)]] is, unwise to the trap we have set for them.  I casually point to the room where we have tucked [[Tarina (Spy)]] and [[Thomus (Unknown Warpriest, Thomas)]] as the rest of [[=Umbra Contundens=]]  pretends to play bones.
 [[Murosko Sesprin (Captain)]] kicks open the door, springing the trap we have set.  Immediately beset by violence, he is briefly stunned.
 [[Baktha Tassup (Elf Paladin, Ryan)]] makes the first kill, taking down one of the goons with a single blow.  
 [[Iliran Tilorri (Elf Wizard, Mike)]] claims the second kill, then all of [[Murosko Sesprin (Captain)]] companions drop their weapons.  
@@ -71,5 +71,8 @@ We dispatch ourselves of [[Murosko Sesprin (Captain)]] fairly quickly while his 
 
 The barkeep is unhappy with the mess.  He bans [[Tarina (Spy)]] permanently, but allows her to stay the night.
 
-### The Intel
-Incoming....
+### The Intel 
+The [[Dead Three]]'s acolytes are believed to be hiding in a public bathhouse several blocks north of here.  It can be identified by the frolicking nymphs carved in its gates.  Rumor is there is a secret door inside leads to a dungeon.  
+The bathhouse is run by the family of [[Thalamra Vanthampur]].  The day to day is run by [[Mortlock Vanthampur]].
+
+We begin planning for [[Mission 1b - The Acolyte's Hideout]].

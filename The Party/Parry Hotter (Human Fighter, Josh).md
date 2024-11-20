@@ -1,1 +1,0 @@
-Distrustful of authority.
