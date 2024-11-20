@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Log/Campaign Background.md",
+                "file": "The Party/1 Umbra Contundens  Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Background"
+              "title": "1 Umbra Contundens  Inventory"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Party/=Umbra Contundens=.md",
+                "file": "The Party/1 Umbra Contundens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "=Umbra Contundens="
+              "title": "1 Umbra Contundens"
             }
           }
         ]
@@ -200,9 +200,10 @@
   },
   "active": "9ad0ebfa3725f610",
   "lastOpenFiles": [
+    "The Party/1 Umbra Contundens.md",
+    "Campaign Log/Campaign Background.md",
     "The Party/Ira Ferox (Human Fighter, Josh).md",
-    "The Party/=Umbra Contundens=  Inventory.md",
-    "The Party/=Umbra Contundens=.md",
+    "The Party/1 Umbra Contundens  Inventory.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "Locations/Uncivil Serpent.md",
@@ -211,7 +212,6 @@
     "Locations/Elturgard.md",
     "NPCs/Thalamra Vanthampur.md",
     "Factions/Dead Three.md",
-    "Campaign Log/Campaign Background.md",
     "Images/Statblocks/Bandit.png",
     "Images/Statblocks/Captain Sesprin.png",
     "Images/Statblocks",
