@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
+                "file": "Umbra Contundens/==Umbra Contundens==.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "==Umbra Contundens== Inventory"
+              "title": "==Umbra Contundens=="
             }
           },
           {
@@ -243,9 +243,9 @@
   },
   "active": "4e31d28e3de1f136",
   "lastOpenFiles": [
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
     "Umbra Contundens/==Umbra Contundens==.md",
     "Umbra Contundens/Thomus - Thomas.md",
-    "Umbra Contundens/==Umbra Contundens== Inventory.md",
     "Umbra Contundens/Salah Secumber - Hal.md",
     "Umbra Contundens/Ira Ferox - Josh.md",
     "Umbra Contundens/Iliran Tilorri - Mike.md",
