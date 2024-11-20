@@ -5,7 +5,7 @@ This is the landing page for https://game-notes.netlify.app/
 Use the left-hand menu to browse around.
 
 [[1 Umbra Contundens]]
-[[1 Umbra Contundens  Inventory]]
+[[1 Umbra Contundens Inventory]]
 [[Campaign Background]]
 
 `git add *`
