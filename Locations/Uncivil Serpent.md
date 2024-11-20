@@ -2,3 +2,4 @@ We claimed this ship after defeating [[Murosko Sesprin (Captain)]] in [[Mission 
 
 ![[uncivilserpent.png]]
 
+#location #ship

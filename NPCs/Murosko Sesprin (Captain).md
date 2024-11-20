@@ -4,3 +4,4 @@ After being robbed by [[Tarina (Spy)]] who crewed for him, he sought revenge whe
 ```statblock
 creature: Bandit Captain
 ```
+#npc #unfriendly

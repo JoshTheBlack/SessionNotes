@@ -1,2 +1,2 @@
 ![[Falten.webp]]
-#npc 
+#npc #friendly
