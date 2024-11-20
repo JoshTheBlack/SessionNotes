@@ -1,5 +1,5 @@
 ### Human Fighter
 Distrustful of authority.
 Savage Wrath
-![[../Images/Ira Ferox screenshot.png]]
+![Ira Ferox screenshot](Images/Ira%20Ferox%20screenshot.png)
 #player #human #fighter

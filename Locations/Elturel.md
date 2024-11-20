@@ -1,4 +1,4 @@
 The city-state along the river Chionthar in the Western Heartlands.  
-Capital of [[Elturgard]]
+Capital of [Elturgard](Locations/Elturgard.md)
 
 #location #city
