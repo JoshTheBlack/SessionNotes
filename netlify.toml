@@ -8,9 +8,9 @@ LANDING_BUTTON = "Go to notes"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Contains AWS, system design, and some random stuff"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "README"
 # (Optional) Site title on landing page
-LANDING_TITLE = "My SWE notes 💖"
+LANDING_TITLE = "Ira's Diary"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/JoshTheBlack/SessionNotes/"
@@ -21,7 +21,7 @@ SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://game-notes.netlify.app"
 # (Optional) Site Timezone
-TIMEZONE = "Australia/Melbourne"
+TIMEZONE = "America/New_York"
 ZOLA_VERSION = "0.15.2"
 # IMPORTANT
 SORT_BY = "weight"
