@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/1 Umbra Contundens.md",
+                "file": "Thomus (Unknown Warpriest, Thomas).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Umbra Contundens"
+              "title": "Thomus (Unknown Warpriest, Thomas)"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/1 Umbra Contundens.md",
+                "file": "1 Umbra Contundens.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,10 +200,10 @@
   },
   "active": "9c0dfdd5443ed487",
   "lastOpenFiles": [
-    "Umbra Contundens/Ira Ferox (Human Fighter, Josh).md",
-    "Umbra Contundens/Iliran Tilorri (Elf Wizard, Mike).md",
-    "Umbra Contundens/1 Umbra Contundens.md",
-    "Umbra Contundens/1 Umbra Contundens  Inventory.md",
+    "1 Umbra Contundens.md",
+    "Ira Ferox (Human Fighter, Josh).md",
+    "Iliran Tilorri (Elf Wizard, Mike).md",
+    "1 Umbra Contundens  Inventory.md",
     "Campaign Log/Campaign Background.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
@@ -220,9 +220,9 @@
     "Images/NPCs",
     "NPCs/Murosko Sesprin (Captain).md",
     "README.md",
-    "Umbra Contundens/Thomus (Unknown Warpriest, Thomas).md",
-    "Umbra Contundens/Salah Secumber (Human Cleric, Hal).md",
-    "Umbra Contundens/Baktha Tassup (Elf Paladin, Ryan).md",
+    "Thomus (Unknown Warpriest, Thomas).md",
+    "Salah Secumber (Human Cleric, Hal).md",
+    "Baktha Tassup (Elf Paladin, Ryan).md",
     "NPCs/Oshallah.md",
     "Faltin.md",
     "Locations/Elfsong Tavern.md",
