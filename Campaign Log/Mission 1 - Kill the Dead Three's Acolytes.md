@@ -57,7 +57,7 @@ The [[Hellriders]] sung of in the song are Paladins sworn to protect Elturel.  I
 We hear a bit of a commotion arise downstairs and steel ourselves for a potential conflict.
 
 > [!info]- The Stats
-| ![[Captain Sesprin.png]] | ![[Bandit.png]] |
+| ![[../Images/Statblocks/Captain Sesprin.png]] | ![[../Images/Statblocks/Bandit.png]] |
 | ------------------------ | --------------- |
 
 [[Murosko Sesprin (Captain)]] (Deadeye) and his band of lackeys clamber up the stairs, gruffly asking where [[Tarina (Spy)]] is, unwise to the trap we have set for them.  I casually point to the room where we have tucked [[Tarina (Spy)]] and [[Thomus - Thomas]] as the rest of [[==Umbra Contundens==]]  pretends to play bones.
