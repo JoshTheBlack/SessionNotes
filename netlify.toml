@@ -6,21 +6,22 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Go to notes"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Adventures on the Sword Coast"
+LANDING_DESCRIPTION = "Contains AWS, system design, and some random stuff"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "README"
+LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Campaign Session Notes"
+LANDING_TITLE = "My SWE notes 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/JoshTheBlack/SessionNotes"
+REPO_URL = "https://github.com/JoshTheBlack/SessionNotes/"
 # (Optional) Site title in navbar
 SITE_TITLE = "Ira Ferox's Notes"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
+SITE_URL = "https://game-notes.netlify.app"
 # (Optional) Site Timezone
-TIMEZONE = "America/New_York"
+TIMEZONE = "Australia/Melbourne"
 ZOLA_VERSION = "0.15.2"
 # IMPORTANT
 SORT_BY = "weight"
@@ -76,3 +77,5 @@ GRAPH_OPTIONS = """
         	},
         }
         """
+
+
