@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/Thomus - Thomas.md",
+                "file": "Umbra Contundens/==Umbra Contundens==.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thomus - Thomas"
+              "title": "==Umbra Contundens=="
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/1 Umbra Contundens.md",
+                "file": "Umbra Contundens/==Umbra Contundens==.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Umbra Contundens"
+              "title": "==Umbra Contundens=="
             }
           }
         ],
@@ -243,8 +243,8 @@
   },
   "active": "4e31d28e3de1f136",
   "lastOpenFiles": [
-    "Umbra Contundens/1 Umbra Contundens Inventory.md",
     "Umbra Contundens/Thomus - Thomas.md",
+    "Umbra Contundens/1 Umbra Contundens Inventory.md",
     "Umbra Contundens/Salah Secumber - Hal.md",
     "Umbra Contundens/Ira Ferox - Josh.md",
     "Umbra Contundens/Iliran Tilorri - Mike.md",
@@ -253,7 +253,7 @@
     "Factions/Dead Three.md",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
-    "Umbra Contundens/1 Umbra Contundens.md",
+    "Umbra Contundens/==Umbra Contundens==.md",
     "Umbra Contundens",
     "Campaign Log/Campaign Background.md",
     "Locations/Uncivil Serpent.md",

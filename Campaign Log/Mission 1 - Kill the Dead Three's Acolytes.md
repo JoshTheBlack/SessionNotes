@@ -60,7 +60,7 @@ We hear a bit of a commotion arise downstairs and steel ourselves for a potentia
 | ![[Captain Sesprin.png]] | ![[Bandit.png]] |
 | ------------------------ | --------------- |
 
-[[Murosko Sesprin (Captain)]] (Deadeye) and his band of lackeys clamber up the stairs, gruffly asking where [[Tarina (Spy)]] is, unwise to the trap we have set for them.  I casually point to the room where we have tucked [[Tarina (Spy)]] and [[Thomus - Thomas]] as the rest of [[1 Umbra Contundens]]  pretends to play bones.
+[[Murosko Sesprin (Captain)]] (Deadeye) and his band of lackeys clamber up the stairs, gruffly asking where [[Tarina (Spy)]] is, unwise to the trap we have set for them.  I casually point to the room where we have tucked [[Tarina (Spy)]] and [[Thomus - Thomas]] as the rest of [[==Umbra Contundens==]]  pretends to play bones.
 [[Murosko Sesprin (Captain)]] kicks open the door, springing the trap we have set.  Immediately beset by violence, he is briefly stunned.
 [[Baktha Tassup - Ryan]] makes the first kill, taking down one of the goons with a single blow.  
 [[Iliran Tilorri - Mike]] claims the second kill, then all of [[Murosko Sesprin (Captain)]] companions drop their weapons.  

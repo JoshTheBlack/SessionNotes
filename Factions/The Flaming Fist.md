@@ -6,6 +6,6 @@ A mercenary army paid by the patriars to be the town guard.  They are here more 
 
 #### Acts
 - Sealed the city gates to stop the massive flow of refugees after the rumored fall of [[Elturel]].
-- Drafted [[1 Umbra Contundens]] to complete [[Mission 1 - Kill the Dead Three's Acolytes]]
+- Drafted [[==Umbra Contundens==]] to complete [[Mission 1 - Kill the Dead Three's Acolytes]]
 
 #factions #baldursgate 
