@@ -4,9 +4,9 @@ This is the landing page for https://game-notes.netlify.app/
 
 Use the left-hand menu to browse around.
 
-[==Umbra Contundens==](Umbra%20Contundens/==Umbra%20Contundens==.md)
-[==Umbra Contundens== Inventory](Umbra%20Contundens/==Umbra%20Contundens==%20Inventory.md)
-[Campaign Background](Campaign%20Log/Campaign%20Background.md)
+[[==Umbra Contundens==]]
+[[==Umbra Contundens== Inventory]]
+[[Campaign Background]]
 
 `git add *`
 `git commit -m "session x"`

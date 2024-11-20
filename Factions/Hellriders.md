@@ -1,3 +1,3 @@
- Paladins sworn to protect [Elturel](Locations/Elturel.md).  It has been speculated that they fought their way into Hell itself.
+ Paladins sworn to protect [[Elturel]].  It has been speculated that they fought their way into Hell itself.
 
 #factions #Elturel

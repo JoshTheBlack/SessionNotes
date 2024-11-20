@@ -1,2 +1,2 @@
-![Falten](Images/NPCs/Falten.webp)
+![[Falten.webp]]
 #npc #friendly
