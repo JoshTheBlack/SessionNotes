@@ -13,7 +13,7 @@ We enter the tavern and sit at a table near the bar.  There is an animated suit 
 We overheard talk of who will be the next Grand Duke.  [[Thalamra Vanthampur]] seems to be a top contender.  She is born of the sewer and rumored to be quite vicious.  One of the four dukes on the council of four.  
 
 [[Falten (Barkeep)]] comes over and takes our order.  
-[[Salah Secumber Human Cleric Hal]] asks for [[Tarina (Spy)]] and [[Falten (Barkeep)]] seems a little taken aback by that request.  He grabs our order and tells us she is upstairs.  She is playing Baldur's Bones in the loft.  
+[[Salah Secumber - Hal]] asks for [[Tarina (Spy)]] and [[Falten (Barkeep)]] seems a little taken aback by that request.  He grabs our order and tells us she is upstairs.  She is playing Baldur's Bones in the loft.  
 
 [[Tarina (Spy)]] seems relieved when we ask about information on [[Dead Three]].  The information will cost us a bit of protective action.  She has stolen a large sum from her former crewmates aboard the *Uncivil Serpent* and needs backup as her comeuppance is nigh.
 
@@ -60,14 +60,14 @@ We hear a bit of a commotion arise downstairs and steel ourselves for a potentia
 | ![[Captain Sesprin.png]] | ![[Bandit.png]] |
 | ------------------------ | --------------- |
 
-[[Murosko Sesprin (Captain)]] (Deadeye) and his band of lackeys clamber up the stairs, gruffly asking where [[Tarina (Spy)]] is, unwise to the trap we have set for them.  I casually point to the room where we have tucked [[Tarina (Spy)]] and [[Thomus Unknown Warpriest Thomas]] as the rest of [[1 Umbra Contundens]]  pretends to play bones.
+[[Murosko Sesprin (Captain)]] (Deadeye) and his band of lackeys clamber up the stairs, gruffly asking where [[Tarina (Spy)]] is, unwise to the trap we have set for them.  I casually point to the room where we have tucked [[Tarina (Spy)]] and [[Thomus - Thomas]] as the rest of [[1 Umbra Contundens]]  pretends to play bones.
 [[Murosko Sesprin (Captain)]] kicks open the door, springing the trap we have set.  Immediately beset by violence, he is briefly stunned.
-[[Baktha Tassup Elf Paladin Ryan]] makes the first kill, taking down one of the goons with a single blow.  
-[[Iliran Tilorri Elf Wizard Mike]] claims the second kill, then all of [[Murosko Sesprin (Captain)]] companions drop their weapons.  
+[[Baktha Tassup - Ryan]] makes the first kill, taking down one of the goons with a single blow.  
+[[Iliran Tilorri - Mike]] claims the second kill, then all of [[Murosko Sesprin (Captain)]] companions drop their weapons.  
 We dispatch ourselves of [[Murosko Sesprin (Captain)]] fairly quickly while his hired swords flee in fear.
 
 #### The Aftermath in [[Elfsong Tavern]]
-[[Thomus Unknown Warpriest Thomas]] took an awful blow and fell unconscious, so we took some time to heal him up and bandage the rest of our wounds.  
+[[Thomus - Thomas]] took an awful blow and fell unconscious, so we took some time to heal him up and bandage the rest of our wounds.  
 
 The barkeep is unhappy with the mess.  He bans [[Tarina (Spy)]] permanently, but allows her to stay the night.
 
