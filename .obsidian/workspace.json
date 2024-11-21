@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Darmin Zodge (Captain).md",
+                "file": "Locations/Uncivil Serpent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darmin Zodge (Captain)"
+              "title": "Uncivil Serpent"
             }
           }
         ],
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322.5
   },
   "right": {
     "id": "0373d9015a0e4daa",
@@ -225,15 +225,28 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "publish:Publish changes...": false
+      "media-extended:Open media": false
     }
   },
   "active": "bf5c515b71308285",
   "lastOpenFiles": [
+    "Locations/The Low Lantern.md",
+    "Locations/Elfsong Tavern.md",
+    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
+    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm",
+    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_night.webm",
+    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_day.webm",
+    "Images/Locations/ElfsongTavern",
+    "Locations/The Bathhouse.md",
+    "Images/Locations/Untitled.md",
+    "Images/Locations/bathhousenight.webm",
+    "Locations/Elturgard.md",
+    "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
+    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+    "NPCs/Darmin Zodge (Captain).md",
     "Umbra Contundens/Ira Ferox - Josh.md",
     "Images/Ira Ferox screenshot.png",
     "NPCs/Ulder Ravenguard.md",
-    "NPCs/Darmin Zodge (Captain).md",
     "Umbra Contundens/Iliran Tilorri - Mike.md",
     "Umbra Contundens/Baktha Tassup - Ryan.md",
     "Umbra Contundens/==Umbra Contundens== Inventory.md",
@@ -244,18 +257,12 @@
     "NPCs/Murosko Sesprin (Captain).md",
     "NPCs/Falten (Barkeep).md",
     "Locations/Uncivil Serpent.md",
-    "Locations/The Low Lantern.md",
-    "Locations/Elturgard.md",
     "Locations/Elturel.md",
-    "Locations/Elfsong Tavern.md",
     "Factions/The Kenku Killers.md",
     "Factions/The Flaming Fist.md",
     "Factions/The Council of Four.md",
     "Factions/Hellriders.md",
     "Factions/Dead Three.md",
-    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
-    "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
-    "Campaign Log/Campaign Background.md",
     "Untitled.canvas",
     "Umbra Contundens",
     "Images/uncivilserpent.png",
@@ -263,19 +270,12 @@
     "Images/Statblocks/Captain Sesprin.png",
     "Images/Statblocks",
     "Images/Locations",
-    "Images/NPCs",
     "Campaign Log/Untitled.canvas",
-    "Umbra Contundens",
-    "netlify.toml",
     "Images/NPCs/UlderRavengard.webp",
     "Images/NPCs/Thalamra.webp",
-    "Images",
     "Images/Locations/Low_lantern_-_PaF.webp",
     "Images/Locations/Low_lantern.webp",
     "Images/NPCs/Captain Darmin Zodge.jpeg",
-    "Campaign Log",
-    "NPCs",
-    "Factions",
     "Images/Locations/Elfsong_beholder.webp"
   ]
 }
