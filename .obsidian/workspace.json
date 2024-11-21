@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Low Lantern.md",
+                "file": "Umbra Contundens/Ira Ferox - Josh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Low Lantern"
+              "title": "Ira Ferox - Josh"
             }
           }
         ],
@@ -230,19 +230,28 @@
   },
   "active": "bf5c515b71308285",
   "lastOpenFiles": [
-    "Locations/Elfsong Tavern.md",
-    "Locations/Uncivil Serpent.md",
+    "Images/Maps/VillaDungeon.jpg",
+    "Images/Maps/Villa.jpg",
     "Locations/The Low Lantern.md",
-    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
+    "Images/Maps/The Low Lantern.jpg",
+    "Images/Maps/Elfsong Tavern Map.jpg",
+    "Images/Maps/DeadThree_grid.jpg",
+    "Images/Maps/Dark Square.jpg",
+    "Locations/The Bathhouse.md",
+    "Locations/Elfsong Tavern.md",
+    "Images/Locations/bathhousenight.webm",
+    "Images/Maps/Dark alley.jpg",
+    "Images/Maps/Bathhouse.jpg",
+    "Images/Maps",
+    "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm",
+    "Locations/Uncivil Serpent.md",
+    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_night.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_day.webm",
     "Images/Locations/ElfsongTavern",
-    "Locations/The Bathhouse.md",
     "Images/Locations/Untitled.md",
-    "Images/Locations/bathhousenight.webm",
     "Locations/Elturgard.md",
-    "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "NPCs/Darmin Zodge (Captain).md",
     "Umbra Contundens/Ira Ferox - Josh.md",
@@ -266,16 +275,7 @@
     "Untitled.canvas",
     "Umbra Contundens",
     "Images/uncivilserpent.png",
-    "Images/Statblocks/Bandit.png",
-    "Images/Statblocks/Captain Sesprin.png",
     "Images/Statblocks",
-    "Images/Locations",
-    "Campaign Log/Untitled.canvas",
-    "Images/NPCs/UlderRavengard.webp",
-    "Images/NPCs/Thalamra.webp",
-    "Images/Locations/Low_lantern_-_PaF.webp",
-    "Images/Locations/Low_lantern.webp",
-    "Images/NPCs/Captain Darmin Zodge.jpeg",
-    "Images/Locations/ElfsongTavern/Elfsong_beholder.webp"
+    "Campaign Log/Untitled.canvas"
   ]
 }
