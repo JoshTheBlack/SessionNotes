@@ -3,13 +3,13 @@ So named because of a ghostly spirit that occasionally sings a love ballad in el
 
 ### Day
 #### Floor 1
-![[../Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm]]
+![[MAP_Avernus_Elfsong_I_day.webm]]
 #### Floor 2
-![[../Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_day.webm]]
+![[MAP_Avernus_Elfsong_II_day.webm]]
 ### Night
 #### Floor 1
-![[../Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm]]
+![[MAP_Avernus_Elfsong_I_night.webm]]
 #### Floor 2
-![[../Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_night.webm]]
+![[MAP_Avernus_Elfsong_II_night.webm]]
 ![[Elfsong_Tavern_5e.webp]]![[Elfsong_beholder.webp]]
 #location

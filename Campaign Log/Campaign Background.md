@@ -14,7 +14,7 @@ After the [[The Kenku Killers]] failed to exact revenge, the owner of [[The Low 
 ## Current Events
 [[Elturel]], the capital of [[Elturgard]], has fallen *very recently*.  Nobody knows why, but we have begun to see an influx of refugees over the past few days.  [[The Flaming Fist]] has seen a large expansion of power in the days since and have sealed the gates allowing nobody in or out. Their Grand Duke, [[Ulder Ravenguard]] has gone missing.  Locals are afraid Baldur's Gate will suffer the same fate as [[Elturel]].  Rumor is it's just a smoking pit now.  
 
-We have just been drafted by [[The Flaming Fist]] to help defend the city.  We were ordered to talk to [[Captain)](NPCs/Darmin Zodge (Captain|Darmin Zodge (Captain)]].md) currently perched at the Basilisk Gate.  He asks us to assist with a problem while [[The Flaming Fist]] maintains order.  
+We have just been drafted by [[Captain|[The Flaming Fist](NPCs/Darmin Zodge (Captain|Darmin Zodge (Captain|[The Flaming Fist]]]].md) currently perched at the Basilisk Gate.  He asks us to assist with a problem while [[The Flaming Fist]] maintains order.  
 
 He assigns us  our first mission:  [[Mission 1 - Kill the Dead Three's Acolytes]]
 

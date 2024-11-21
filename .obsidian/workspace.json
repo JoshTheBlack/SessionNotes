@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Uncivil Serpent.md",
+                "file": "Locations/The Low Lantern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uncivil Serpent"
+              "title": "The Low Lantern"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "bf5c515b71308285",
   "lastOpenFiles": [
-    "Locations/The Low Lantern.md",
     "Locations/Elfsong Tavern.md",
+    "Locations/Uncivil Serpent.md",
+    "Locations/The Low Lantern.md",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_night.webm",
@@ -256,7 +257,6 @@
     "NPCs/Oshallah.md",
     "NPCs/Murosko Sesprin (Captain).md",
     "NPCs/Falten (Barkeep).md",
-    "Locations/Uncivil Serpent.md",
     "Locations/Elturel.md",
     "Factions/The Kenku Killers.md",
     "Factions/The Flaming Fist.md",
@@ -276,6 +276,6 @@
     "Images/Locations/Low_lantern_-_PaF.webp",
     "Images/Locations/Low_lantern.webp",
     "Images/NPCs/Captain Darmin Zodge.jpeg",
-    "Images/Locations/Elfsong_beholder.webp"
+    "Images/Locations/ElfsongTavern/Elfsong_beholder.webp"
   ]
 }

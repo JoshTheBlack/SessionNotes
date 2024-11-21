@@ -6,7 +6,7 @@ We filter into the bathhouse one at a time, spread out over some 30-45 minutes.
 We hear a lot of speculation about the fate of [[Elturel]] on our short jaunt to the split up point.
 
 #### The Recon
-[[../Locations/The Bathhouse]] is a large stucco building with a clay-tiled roof with a courtyard.
+[[The Bathhouse]] is a large stucco building with a clay-tiled roof with a courtyard.
 [[Iliran Tilorri - Mike]] goes first.  [[Baktha Tassup - Ryan]] follows shortly behind.  
 [[Thomus - Thomas]] visits one of the massage rooms, receiving a massage from the therapist [[Qurmilah]], who tells [[Thomus - Thomas]] that the faucet draws warm water from some sort of elaborate pipe system under the building.  He notices a false wall in the massage room.
 

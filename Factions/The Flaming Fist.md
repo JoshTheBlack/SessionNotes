@@ -2,7 +2,7 @@ A mercenary army paid by the patriars to be the town guard.  They are here more 
 
 #### Members
 - [[Ulder Ravenguard]] (Leader, also the Grand Duke of [[The Council of Four]], missing)
-- [[Captain)](NPCs/Darmin Zodge (Captain|Darmin Zodge (Captain)]].md)
+- [[Captain|[Captain)](NPCs/Darmin Zodge (Captain|Darmin Zodge (Captain|[Captain)]]]].md)
 
 #### Acts
 - Sealed the city gates to stop the massive flow of refugees after the rumored fall of [[Elturel]].
