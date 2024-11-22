@@ -8,10 +8,10 @@ We hear a lot of speculation about the fate of [[Elturel]] on our short jaunt to
 #### The Recon
 [[The Bathhouse]] is a large stucco building with a clay-tiled roof with a courtyard.
 [[Iliran Tilorri - Mike]] goes first.  [[Baktha Tassup - Ryan]] follows shortly behind.  
-[[Thomus - Thomas]] visits one of the massage rooms, receiving a massage from the therapist [[Qurmilah]], who tells [[Thomus - Thomas]] that the faucet draws warm water from some sort of elaborate pipe system under the building.  He notices a false wall in the massage room.
+[[Thomus - Thomas]] visits one of the massage rooms, receiving a massage from the therapist Qurmilah, who tells [[Thomus - Thomas]] that the faucet draws warm water from some sort of elaborate pipe system under the building.  He notices a false wall in the massage room.
 
 There are half a dozen common folk bathing in the shallow pools inside, but no attendant in sight.
-[[Salah Secumber - Hal]] visitz [[Jabaz]] in the other massage chamber.
+[[Salah Secumber - Hal]] visitz Jabaz in the other massage chamber.
 
 #### The Docks
 We depart the bath house with a plan to come back after dark.  We head to the docks to check out the [[Uncivil Serpent]].
