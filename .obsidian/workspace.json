@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ad0ebfa3725f610",
+            "id": "affc67c29e37f42c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/Salah Secumber - Hal.md",
+                "file": "Locations/Elturgard/Baldur's Gate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salah Secumber - Hal"
-            }
-          },
-          {
-            "id": "d03da7381628d882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umbra Contundens/Thomus - Thomas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thomus - Thomas"
-            }
-          },
-          {
-            "id": "fb7b255fde847002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umbra Contundens/Thomus - Thomas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thomus - Thomas"
-            }
-          },
-          {
-            "id": "bf5c515b71308285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Umbra Contundens/Ira Ferox - Josh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ira Ferox - Josh"
+              "title": "Baldur's Gate"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umbra Contundens/Thomus - Thomas.md"
+                "file": "Locations/Elturgard/Baldur's Gate.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Thomus - Thomas"
+              "title": "Outline of Baldur's Gate"
             }
           },
           {
@@ -225,36 +182,42 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "media-extended:Open media": false
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "bf5c515b71308285",
+  "active": "9c0dfdd5443ed487",
   "lastOpenFiles": [
+    "Locations/Elturgard/Elturel.md",
+    "Locations/Elturgard/Baldur's Gate.md",
+    "Locations/Elturgard.md",
+    "Locations/Elturgard/Elturel Locations",
+    "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md",
+    "Locations/Elturgard",
+    "Locations/Untitled.md",
+    "Images/Locations/baldursgate.jpg",
+    "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
+    "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
+    "Locations/Elturgard/Baldurs Gate Locations",
+    "Umbra Contundens/Ira Ferox - Josh.md",
     "Images/Maps/VillaDungeon.jpg",
     "Images/Maps/Villa.jpg",
-    "Locations/The Low Lantern.md",
     "Images/Maps/The Low Lantern.jpg",
     "Images/Maps/Elfsong Tavern Map.jpg",
     "Images/Maps/DeadThree_grid.jpg",
     "Images/Maps/Dark Square.jpg",
-    "Locations/The Bathhouse.md",
-    "Locations/Elfsong Tavern.md",
+    "Locations/Elturgard/Baldurs Gate Locations/Elfsong Tavern.md",
     "Images/Locations/bathhousenight.webm",
     "Images/Maps/Dark alley.jpg",
     "Images/Maps/Bathhouse.jpg",
     "Images/Maps",
     "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm",
-    "Locations/Uncivil Serpent.md",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_night.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_day.webm",
-    "Images/Locations/ElfsongTavern",
     "Images/Locations/Untitled.md",
-    "Locations/Elturgard.md",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "NPCs/Darmin Zodge (Captain).md",
-    "Umbra Contundens/Ira Ferox - Josh.md",
     "Images/Ira Ferox screenshot.png",
     "NPCs/Ulder Ravenguard.md",
     "Umbra Contundens/Iliran Tilorri - Mike.md",
@@ -266,16 +229,11 @@
     "NPCs/Oshallah.md",
     "NPCs/Murosko Sesprin (Captain).md",
     "NPCs/Falten (Barkeep).md",
-    "Locations/Elturel.md",
     "Factions/The Kenku Killers.md",
     "Factions/The Flaming Fist.md",
     "Factions/The Council of Four.md",
     "Factions/Hellriders.md",
-    "Factions/Dead Three.md",
     "Untitled.canvas",
-    "Umbra Contundens",
-    "Images/uncivilserpent.png",
-    "Images/Statblocks",
     "Campaign Log/Untitled.canvas"
   ]
 }

@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1732288761754,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1732289100180,
+          "items": [],
+          "title": "Campaign Log"
+        },
+        {
+          "type": "group",
+          "ctime": 1732289082823,
+          "items": [],
+          "title": "Umbra Contundens"
+        },
+        {
+          "type": "group",
+          "ctime": 1732288761755,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1732288761755,
+              "path": "Locations/Elturgard.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1732288834853,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1732289031581,
+                  "path": "Locations/Elturgard/Baldur's Gate.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1732288849020,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1732288834853,
+                      "path": "Locations/Elturgard/Elturel.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "Baldurs Gate Locations"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1732288834853,
+                  "path": "Locations/Elturgard/Elturel.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1732288849020,
+                  "items": [],
+                  "title": "Elturel Locations"
+                }
+              ],
+              "title": "Elturgard"
+            }
+          ],
+          "title": "Locations"
+        },
+        {
+          "type": "group",
+          "ctime": 1732289100180,
+          "items": [],
+          "title": "Factions"
+        },
+        {
+          "type": "group",
+          "ctime": 1732289100180,
+          "items": [],
+          "title": "NPCs"
+        },
+        {
+          "type": "group",
+          "ctime": 1732289100180,
+          "items": [],
+          "title": "Images"
+        },
+        {
+          "type": "group",
+          "ctime": 1732289100180,
+          "items": [],
+          "title": "NPCs"
+        },
+        {
+          "type": "file",
+          "ctime": 1732289100180,
+          "path": "netlify.toml",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1732289100180,
+          "path": "README.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

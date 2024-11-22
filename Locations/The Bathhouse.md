@@ -1,1 +1,0 @@
-![[Bathhouse.jpg]]
