@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Elturgard/Baldur's Gate.md",
+                "file": "Locations/Elturgard/Elturel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baldur's Gate"
+              "title": "Elturel"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Elturgard/Baldur's Gate.md"
+                "file": "Locations/Elturgard/Elturel.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Baldur's Gate"
+              "title": "Outline of Elturel"
             }
           },
           {
@@ -185,8 +185,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9c0dfdd5443ed487",
+  "active": "affc67c29e37f42c",
   "lastOpenFiles": [
+    "Images/Locations/Elturel_labeled.png",
     "Locations/Elturgard/Elturel.md",
     "Locations/Elturgard/Baldur's Gate.md",
     "Locations/Elturgard.md",
@@ -232,7 +233,6 @@
     "Factions/The Kenku Killers.md",
     "Factions/The Flaming Fist.md",
     "Factions/The Council of Four.md",
-    "Factions/Hellriders.md",
     "Untitled.canvas",
     "Campaign Log/Untitled.canvas"
   ]
