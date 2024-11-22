@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission 1b - The Acolyte's Hideout"
+              "title": "README"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Log/Mission 1b - The Acolyte's Hideout.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mission 1b - The Acolyte's Hideout"
+              "title": "Outline of README"
             }
           },
           {
@@ -187,6 +187,8 @@
   },
   "active": "a654045c1f08e68f",
   "lastOpenFiles": [
+    "Images/campaign.jpg",
+    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "NPCs/Mortlock Vanthampur.md",
     "Spy.md",
     "NPCs/Ulder Ravenguard.md",
@@ -210,13 +212,11 @@
     "Locations/Elturgard/Baldur's Gate.md",
     "Locations/Elturgard.md",
     "Campaign Log/Campaign Background.md",
-    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
     "Images/NPCs/mortlock.jpg",
     "Images/Locations/Elturel_labeled.png",
     "Locations/Elturgard/Elturel Locations",
     "Locations/Elturgard",
-    "Locations/Untitled.md",
     "Images/Locations/baldursgate.jpg",
     "Locations/Elturgard/Baldurs Gate Locations",
     "Images/Maps/VillaDungeon.jpg",
