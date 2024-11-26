@@ -19,7 +19,7 @@ SITE_TITLE = "Ira Ferox's Notes"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://game-notes.netlify.app"
+SITE_URL = "https://notes.joshtheblack.com"
 # (Optional) Site Timezone
 TIMEZONE = "America/New_York"
 ZOLA_VERSION = "0.15.2"
