@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Mission 1b - The Acolyte's Hideout"
             }
           }
         ]
@@ -185,11 +185,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d4b0c974a44e9b4a",
+  "active": "a654045c1f08e68f",
   "lastOpenFiles": [
+    "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
+    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
+    "Campaign Log/Campaign Background.md",
+    "Umbra Contundens/Ira Ferox - Josh.md",
+    "README.md",
     "Images/Spatchcock-Chicken-09.jpg",
     "Images/campaign.jpg",
-    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "NPCs/Mortlock Vanthampur.md",
     "Spy.md",
     "NPCs/Ulder Ravenguard.md",
@@ -208,12 +214,7 @@
     "Locations/Elturgard/Elturel.md",
     "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md",
     "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
-    "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
     "Locations/Elturgard/Baldurs Gate Locations/Elfsong Tavern.md",
-    "Locations/Elturgard/Baldur's Gate.md",
-    "Locations/Elturgard.md",
-    "Campaign Log/Campaign Background.md",
-    "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
     "Images/NPCs/mortlock.jpg",
     "Images/Locations/Elturel_labeled.png",
     "Locations/Elturgard/Elturel Locations",
@@ -225,7 +226,6 @@
     "Images/Maps/The Low Lantern.jpg",
     "Images/Maps/Elfsong Tavern Map.jpg",
     "Images/Maps/DeadThree_grid.jpg",
-    "Images/Maps/Dark Square.jpg",
     "Images/Locations/bathhousenight.webm",
     "Images/Maps",
     "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
