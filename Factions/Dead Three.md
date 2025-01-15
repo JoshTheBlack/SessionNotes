@@ -1,6 +1,6 @@
-- Bane, the Lord of Darkness, 
-- Bhaal, the lord of Murder,
-- Myrkul, the lord of Bones.
+- [Bane](https://forgottenrealms.fandom.com/wiki/Bane), the Lord of Darkness, 
+- [Bhaal](https://forgottenrealms.fandom.com/wiki/Bhaal), the lord of Murder,
+- [Myrkul](https://forgottenrealms.fandom.com/wiki/Myrkul), the lord of Bones.
 
 Former mortal adventurers who sought the path to godhood.  They found it in the form of [Jergal](https://forgottenrealms.fandom.com/wiki/Jergal "Jergal"), who acquiesced to their demands as he was tiring of his life as god of the dead. He gave up his portfolios to the three of them, apotheosizing them in the process. Bane ruled tyranny and strife, Bhaal became the god of murder, and Myrkul was lord of the dead.
 

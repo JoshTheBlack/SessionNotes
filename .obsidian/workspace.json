@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e7a8759caf242c",
+        "id": "637cf1f88a99e127",
         "type": "tabs",
         "children": [
           {
-            "id": "a654045c1f08e68f",
+            "id": "24ca524437046a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,11 +185,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a654045c1f08e68f",
+  "active": "24ca524437046a57",
   "lastOpenFiles": [
-    "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
-    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+    "NPCs/Myrkul.md",
+    "NPCs/Bane.md",
+    "NPCs/Bhaal.md",
+    "Factions/Dead Three.md",
+    "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
     "Campaign Log/Campaign Background.md",
     "Umbra Contundens/Ira Ferox - Josh.md",
@@ -210,11 +214,7 @@
     "Factions/The Flaming Fist.md",
     "Factions/The Council of Four.md",
     "Factions/Hellriders.md",
-    "Factions/Dead Three.md",
     "Locations/Elturgard/Elturel.md",
-    "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md",
-    "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
-    "Locations/Elturgard/Baldurs Gate Locations/Elfsong Tavern.md",
     "Images/NPCs/mortlock.jpg",
     "Images/Locations/Elturel_labeled.png",
     "Locations/Elturgard/Elturel Locations",

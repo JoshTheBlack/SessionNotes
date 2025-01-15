@@ -1,0 +1,3 @@
+**Bhaal** (pronounced:  _BAHL_) known as **Niynjushigampo** among his [Gugari](https://forgottenrealms.fandom.com/wiki/Gugari "Gugari") worshipers, was the widely feared **Lord of Murder**, the [Faerûnian](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBnian_pantheon "Faerûnian pantheon") [god](https://forgottenrealms.fandom.com/wiki/God "God") of violence and ritualistic killing.
+
+One of the [[Dead Three]].

@@ -1,0 +1,3 @@
+**Bane** (pronounced: _BAYN_) was the [Faerunian](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBnian_pantheon "Faerûnian pantheon") [god](https://forgottenrealms.fandom.com/wiki/God "God") of tyrannical oppression, terror, and hate, known across [Faerûn](https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn "Faerûn") as the face of pure evil through malevolent despotism. From his dread [plane](https://forgottenrealms.fandom.com/wiki/Plane "Plane") of [Banehold](https://forgottenrealms.fandom.com/wiki/Banehold "Banehold"), **The Black Hand** acted indirectly through worshipers and other agents to achieve his ultimate plan to achieve total domination of all Faerûn.
+
+One of the [[Dead Three]]
