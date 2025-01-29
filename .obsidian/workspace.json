@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Mission 1b - The Acolyte's Hideout"
             }
+          },
+          {
+            "id": "d4bca73b95077ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Log/A Bard's Tale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Bard's Tale"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,17 +200,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "24ca524437046a57",
+  "active": "9c0dfdd5443ed487",
   "lastOpenFiles": [
-    "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "NPCs/Tarina (Spy).md",
+    "Campaign Log/A Bard's Tale.md",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+    "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
+    "Campaign Log/Campaign Background.md",
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
     "NPCs/Myrkul.md",
     "NPCs/Bane.md",
     "NPCs/Bhaal.md",
     "Factions/Dead Three.md",
     "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
-    "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
-    "Campaign Log/Campaign Background.md",
     "Umbra Contundens/Ira Ferox - Josh.md",
     "README.md",
     "Images/Spatchcock-Chicken-09.jpg",
@@ -205,7 +222,6 @@
     "NPCs/Ulder Ravenguard.md",
     "Captain.md",
     "NPCs/Thalamra Vanthampur.md",
-    "NPCs/Tarina (Spy).md",
     "NPCs/Oshallah.md",
     "NPCs/Murosko Sesprin (Captain).md",
     "NPCs/Falten (Barkeep).md",
@@ -214,7 +230,6 @@
     "Factions/The Flaming Fist.md",
     "Factions/The Council of Four.md",
     "Factions/Hellriders.md",
-    "Locations/Elturgard/Elturel.md",
     "Images/NPCs/mortlock.jpg",
     "Images/Locations/Elturel_labeled.png",
     "Locations/Elturgard/Elturel Locations",
