@@ -58,3 +58,19 @@ We traded blows with the torturers, a chaotic dance of death in the confined spa
 Our attention was drawn to a suit of armor in the chamber, its gauntlets etched with arcane inscriptions. A burlap sack lay hidden behind its legs. Upon closer inspection, the gauntlets pulsed with magical energy, an enchantment of animation clinging to them. With a touch, [[Iliran Tilorri - Mike]] unwittingly activated the gauntlets, which detached from the armor and launched a furious assault.
 
 The animated gauntlets proved to be formidable foes, delivering a sound thrashing before we finally managed to destroy them. We licked our wounds, nursing our bruises and battered pride. Unfortunately, the animated gauntlets had managed to knock [[Iliran Tilorri - Mike]] unconscious before their demise.
+
+----------------
+
+We sought respite in the chamber concealed behind [[Myrkul]]'s forbidding visage, the silence of the tomb offering a brief reprieve from the perils we had faced. Yet, as our weary bodies sought solace, the tranquility was shattered by the ominous echo of approaching footsteps and hushed voices. A sense of foreboding gripped us, and we hastily prepared an ambush, steeling ourselves for the inevitable confrontation.
+
+The heavy door creaked open, revealing a trio of crimson-clad acolytes, their skeletal flails gripped tightly in their bony hands. Their eyes widened in surprise at the sight of us, their plans clearly disrupted.
+
+With the fury of cornered wolves, we fell upon them. Two of the acolytes were swiftly dispatched, their lifeless forms crumpling to the cold stone floor. But the third, fueled by fear and desperation, fled back into the labyrinthine depths, seeking reinforcements.
+
+Driven by a thirst for vengeance, we gave chase, our pursuit leading us to a hidden chamber where a necromancer was engaged in a dark ritual. Her incantations filled the air with an unholy energy as a swarm of rats surged around her, their beady eyes gleaming with malevolence.
+
+We launched a furious assault, our weapons flashing in the dim light. But the necromancer, with a malevolent cackle, unleashed a devastating fireball, engulfing most of [[==Umbra Contundens==]] in a searing inferno. Despite our wounds, we pressed on, finally vanquishing the necromancer and scattering her rodent minions.
+
+As the echoes of battle faded, we discovered a pad lock and a key tangled in her hair, intertwined with arcane symbols. With a turn of the key, the lock unfurled, releasing a plume of smoke that coalesced into a spectral skull. It hovered above us, its hollow sockets fixed upon each member of our party, its silent laughter echoing through the chamber. All except for [[Ira Ferox - Josh]], who, with prudent foresight, had remained guarding the passageway, were subjected to the skull's chilling scrutiny.
+
+------------------------------
