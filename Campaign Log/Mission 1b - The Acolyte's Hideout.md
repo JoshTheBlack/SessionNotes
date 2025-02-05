@@ -73,4 +73,22 @@ We launched a furious assault, our weapons flashing in the dim light. But the ne
 
 As the echoes of battle faded, we discovered a pad lock and a key tangled in her hair, intertwined with arcane symbols. With a turn of the key, the lock unfurled, releasing a plume of smoke that coalesced into a spectral skull. It hovered above us, its hollow sockets fixed upon each member of our party, its silent laughter echoing through the chamber. All except for [[Ira Ferox - Josh]], who, with prudent foresight, had remained guarding the passageway, were subjected to the skull's chilling scrutiny.
 
-------------------------------
+---------------------
+
+The hallway snakes onward, leading us to an altar of macabre design, a wicked testament of sacrifice, adorned with skulls and bones -- the skeletal remains of countless victims. Skulls leer from the mound, a chilling testament to the countless sacrifices performed upon this unholy site. [[Iliran Tilorri - Mike]] hesitates, then reaches out and ignites a brazier perched upon the altar. In an instant, a chain reaction ignites, each brazier along the altar flickering to life with an eerie glow, casting dancing shadows that reveal an inscription upon the wall: "Rise and be counted." The ignition leaves behind an acrid, emerald smoke, its tendrils clinging to the air, a noxious, lingering fog that stings our throats.
+
+[[Salah Secumber - Hal]], with a voice that resonates with the weight of the words, reads the inscription aloud. Before his final syllable fades, the bone piles scattered upon the altar stir and coalesce, assembling themselves into three animated skeletons. These skeletal constructs seem bound to his will, thralls awaiting his every command, their bony fingers twitching with anticipation.
+
+Rounding the next bend, we encounter another flooded chamber, this one reeking with the pungent fumes of methane and sulfur.  The air crackled with an unseen energy, a palpable tension hanging heavy in the oppressive atmosphere.  With a reckless abandon that would soon prove costly, [[Thomus - Thomas]] launches a firebolt into the room.  The chamber erupts in a blinding flash of fire, the volatile gases igniting with explosive force.  [[Thomus - Thomas]] and [[Iliran Tilorri - Mike]] are knocked unconscious, their bodies flung back by the blast, while [[Baktha Tassup - Ryan]] sustains grievous injuries.
+ 
+After a brief respite, we press onward, shaken by the explosion.  A long hallway stretches before us, punctuated by a series of smaller corridors branching off on either side.  Some are choked with rubble, while others remained open, their secrets veiled by closed doors.  [[Baktha Tassup - Ryan]],  already moving, ventures into the second uncollapsed hallway on the right.  Within, he discovers a stone vault, a solitary skeleton resting upon its raised base.  His keen eyes detect a false bottom, and with a powerful blow, he shatters the illusion, revealing a hidden compartment.  Inside, submerged in a briny red liquid, lies a mummy with moonstones gleaming in its empty sockets, and a *bag of beans* stuffed down its gullet.
+
+The next two doors we investigate are in varying states of decay, their interiors yielding nothing of note. [[Salah Secumber - Hal]] commands one of his skeletons to unbar another door, revealing six ravenous zombies that lunge forth in a frenzied attack. [[Salah Secumber - Hal]] stumbles back, fleeing through the far door into a scene of unspeakable horror. Blood smears every surface, both dried and glistening. Two bodies, riddled with gashes, hang shackled to the wall. A cat-o'-nine-tails and a bucket of salt lay discarded upon the floor, both implements of torture and silent witnesses to the brutality. 
+
+[[Ira Ferox - Josh]] steps forward, cleaving one of the zombies in two with a mighty blow. We quickly reform our ranks in the hallway establishing a killbox just beyond the zombie-infested doorway. They pour through, one by one, meeting their demise in a gruesome ballet of bludgeoning blows, sickening slices, swift shafts, and searing sorcery.
+
+The room (and now the hallway) reeks of death. An open stone sarcophagus rests against the far wall, its lid shattered and strewn about the floor. Cannibalistic imagery decorates the chamber.
+
+Back in the torture chamber, Hal discovers a Tiefling captive, teetering on the precipice of death. With a touch of healing magic, he restores them to a semblance of vitality, granting them 8 precious hit points.
+
+-----

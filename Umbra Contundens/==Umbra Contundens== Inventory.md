@@ -1,7 +1,7 @@
 #### Key Items
 ==1 Dock ticket for the Uncivil Serpent==
 1 Key bound in hair, 1 lock bound with hair. (Lock is bound to the spellbook)
-
+1 stinky bag with 10 beans inside (bag of beans)
 
 
 #### Money
@@ -10,6 +10,7 @@
 #### Treasure
 2 Gold Necklaces
 1 Gold Ring with white pearls set in it
+2 Moon stones
 
 #### Weapons & Armor
 4 Daggers

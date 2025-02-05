@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Log/A Bard's Tale.md",
+                "file": "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Bard's Tale"
+              "title": "Mission 1b - The Acolyte's Hideout"
             }
           }
         ],
@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -200,14 +201,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9c0dfdd5443ed487",
+  "active": "d4bca73b95077ca2",
   "lastOpenFiles": [
-    "NPCs/Tarina (Spy).md",
-    "Campaign Log/A Bard's Tale.md",
+    "Umbra Contundens/==Umbra Contundens==.md",
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
+    "Campaign Log/A Bard's Tale.md",
+    "NPCs/Tarina (Spy).md",
     "Campaign Log/Campaign Background.md",
-    "Umbra Contundens/==Umbra Contundens== Inventory.md",
     "NPCs/Myrkul.md",
     "NPCs/Bane.md",
     "NPCs/Bhaal.md",
@@ -229,7 +231,6 @@
     "Factions/The Kenku Killers.md",
     "Factions/The Flaming Fist.md",
     "Factions/The Council of Four.md",
-    "Factions/Hellriders.md",
     "Images/NPCs/mortlock.jpg",
     "Images/Locations/Elturel_labeled.png",
     "Locations/Elturgard/Elturel Locations",
