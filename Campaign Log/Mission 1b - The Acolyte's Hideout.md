@@ -74,7 +74,7 @@ We launched a furious assault, our weapons flashing in the dim light. But the ne
 As the echoes of battle faded, we discovered a pad lock and a key tangled in her hair, intertwined with arcane symbols. With a turn of the key, the lock unfurled, releasing a plume of smoke that coalesced into a spectral skull. It hovered above us, its hollow sockets fixed upon each member of our party, its silent laughter echoing through the chamber. All except for [[Ira Ferox - Josh]], who, with prudent foresight, had remained guarding the passageway, were subjected to the skull's chilling scrutiny.
 
 ---------------------
-
+#### Last Week On
 The hallway snakes onward, leading us to an altar of macabre design, a wicked testament of sacrifice, adorned with skulls and bones -- the skeletal remains of countless victims. Skulls leer from the mound, a chilling testament to the countless sacrifices performed upon this unholy site. [[Iliran Tilorri - Mike]] hesitates, then reaches out and ignites a brazier perched upon the altar. In an instant, a chain reaction ignites, each brazier along the altar flickering to life with an eerie glow, casting dancing shadows that reveal an inscription upon the wall: "Rise and be counted." The ignition leaves behind an acrid, emerald smoke, its tendrils clinging to the air, a noxious, lingering fog that stings our throats.
 
 [[Salah Secumber - Hal]], with a voice that resonates with the weight of the words, reads the inscription aloud. Before his final syllable fades, the bone piles scattered upon the altar stir and coalesce, assembling themselves into three animated skeletons. These skeletal constructs seem bound to his will, thralls awaiting his every command, their bony fingers twitching with anticipation.
