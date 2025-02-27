@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Log/A Bard's Tale.md",
+                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Bard's Tale"
+              "title": "==Umbra Contundens== Inventory"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "186cc6eba3d2ba10",
   "lastOpenFiles": [
+    "Campaign Log/A Bard's Tale.md",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "Campaign Log/Mission 2 - Eliminate Amrik Vanthampur.md",
     "NPCs/Vanthampurs/Thurstwell Vanthampur.md",
@@ -201,7 +202,6 @@
     "NPCs/Vanthampurs",
     "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
     "Umbra Contundens/Baktha Tassup - Ryan.md",
-    "Campaign Log/A Bard's Tale.md",
     "Umbra Contundens/==Umbra Contundens==.md",
     "NPCs/Tarina (Spy).md",
     "Campaign Log/Campaign Background.md",
