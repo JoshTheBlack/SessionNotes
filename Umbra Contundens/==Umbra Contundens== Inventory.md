@@ -3,21 +3,32 @@
 1 Key bound in hair, 1 lock bound with hair. (Lock is bound to the spellbook)
 1 stinky bag with 10 beans inside (bag of beans)
 
-
 #### Money
 92 GP
 
 #### Treasure
+1750 sp
+6900 cp
 2 Gold Necklaces
 1 Gold Ring with white pearls set in it
 2 Moon stones
 
+
 #### Weapons & Armor
-4 Daggers
+15 Daggers
+4 shortswords
 7 Skull flail
 2 Suits of chainmail
 1 Suit of plate armor w/helmet
 1 Necromancer flail (+1 cursed)
+6 manacles
+4 potions of healing
+2 weeks rations (1 person)
+20 caltrops
+3 flask of alchemist fire
+4 tinderboxes
+2 potion of firebreath w/gold stoppers (stoppers worth 25gp ea)
+10 eye agates (10gp ea)
 
 #### Spellbooks
  1 Red leather spellbook (Burning Hands, Detect Magic, Disguise Self, Fog Cloud, Ray of Sickness, Silent Image)

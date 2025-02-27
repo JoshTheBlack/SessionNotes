@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24ca524437046a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mission 1b - The Acolyte's Hideout"
-            }
-          },
-          {
-            "id": "d4bca73b95077ca2",
+            "id": "186cc6eba3d2ba10",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "A Bard's Tale"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,17 +186,26 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d4bca73b95077ca2",
+  "active": "186cc6eba3d2ba10",
   "lastOpenFiles": [
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
-    "Umbra Contundens/==Umbra Contundens==.md",
-    "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "Campaign Log/Mission 2 - Eliminate Amrik Vanthampur.md",
+    "NPCs/Vanthampurs/Thurstwell Vanthampur.md",
+    "NPCs/Vanthampurs/Amrik Vanthampur.md",
+    "Factions/Oathoon Family.md",
+    "NPCs/Vendetta Cress.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "NPCs/Vanthampurs/Mortlock Vanthampur.md",
+    "NPCs/Bane.md",
+    "NPCs/Vanthampurs",
+    "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
+    "Umbra Contundens/Baktha Tassup - Ryan.md",
     "Campaign Log/A Bard's Tale.md",
+    "Umbra Contundens/==Umbra Contundens==.md",
     "NPCs/Tarina (Spy).md",
     "Campaign Log/Campaign Background.md",
     "NPCs/Myrkul.md",
-    "NPCs/Bane.md",
     "NPCs/Bhaal.md",
     "Factions/Dead Three.md",
     "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
@@ -219,18 +213,10 @@
     "README.md",
     "Images/Spatchcock-Chicken-09.jpg",
     "Images/campaign.jpg",
-    "NPCs/Mortlock Vanthampur.md",
     "Spy.md",
     "NPCs/Ulder Ravenguard.md",
     "Captain.md",
-    "NPCs/Thalamra Vanthampur.md",
-    "NPCs/Oshallah.md",
-    "NPCs/Murosko Sesprin (Captain).md",
-    "NPCs/Falten (Barkeep).md",
-    "NPCs/Darmin Zodge (Captain).md",
-    "Factions/The Kenku Killers.md",
-    "Factions/The Flaming Fist.md",
-    "Factions/The Council of Four.md",
+    "NPCs/Vanthampurs/Thalamra Vanthampur.md",
     "Images/NPCs/mortlock.jpg",
     "Images/Locations/Elturel_labeled.png",
     "Locations/Elturgard/Elturel Locations",
@@ -248,7 +234,6 @@
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_night.webm",
-    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_day.webm",
     "Untitled.canvas",
     "Campaign Log/Untitled.canvas"
   ]

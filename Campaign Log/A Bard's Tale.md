@@ -68,3 +68,47 @@ Is healed by touch, their life to bail.
 Though whispers warn of greater strife,
 While shadows loom, and threaten life.
 
+A tortured soul, with secrets lost, 
+Vendetta's plight, a heavy cost. 
+We rest and heal, then venture deep, 
+Where stairs descend, and shadows creep.
+
+In slumber deep, four guardsmen lie, 
+But Ira's blade, draws swiftly nigh. 
+A bloody clash, in chambers dim, 
+We fight and conquer, limb by limb.
+
+From bloody tomb, a crone appears, 
+With honeyed words, and treacherous sneers. 
+Her true form shows, with wicked might, 
+And Salah falls, in fading light.
+
+Invisibility's veil she weaves, 
+But Ira strikes, with swift reprieves. 
+Enchantment binds, with twisted will, 
+Till thunder breaks, the spell to kill.
+
+An ogre roars, with bat in tow, 
+Through hidden doors, the monsters go. 
+In flooded halls, with torches dim, 
+We face the dead, with courage grim.
+
+Mortlock stands, with club in hand, 
+Reveals the plot, to seize the land. 
+The Vanthampurs weave, a web of lies, 
+As Baldur's Gate, before them dies.
+
+The cultist flees, with skull-like face, 
+We chase him down, with vengeful pace.
+In final stand, 'mid idols grim, 
+We strike him down, with spells and vim.
+
+But dangers new, arise once more, 
+As Tiamat's cult, comes to the fore. 
+With blades and spells, we take our stand, 
+And vanquish foes, throughout the land.
+
+The Low Lantern, our next dark quest, 
+Where Amrik waits, with wicked test. 
+With coin and steel, we make our way, 
+To face the dawn, and seize the day.

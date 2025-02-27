@@ -74,7 +74,6 @@ We launched a furious assault, our weapons flashing in the dim light. But the ne
 As the echoes of battle faded, we discovered a pad lock and a key tangled in her hair, intertwined with arcane symbols. With a turn of the key, the lock unfurled, releasing a plume of smoke that coalesced into a spectral skull. It hovered above us, its hollow sockets fixed upon each member of our party, its silent laughter echoing through the chamber. All except for [[Ira Ferox - Josh]], who, with prudent foresight, had remained guarding the passageway, were subjected to the skull's chilling scrutiny.
 
 ---------------------
-#### Last Week On
 The hallway snakes onward, leading us to an altar of macabre design, a wicked testament of sacrifice, adorned with skulls and bones -- the skeletal remains of countless victims. Skulls leer from the mound, a chilling testament to the countless sacrifices performed upon this unholy site. [[Iliran Tilorri - Mike]] hesitates, then reaches out and ignites a brazier perched upon the altar. In an instant, a chain reaction ignites, each brazier along the altar flickering to life with an eerie glow, casting dancing shadows that reveal an inscription upon the wall: "Rise and be counted." The ignition leaves behind an acrid, emerald smoke, its tendrils clinging to the air, a noxious, lingering fog that stings our throats.
 
 [[Salah Secumber - Hal]], with a voice that resonates with the weight of the words, reads the inscription aloud. Before his final syllable fades, the bone piles scattered upon the altar stir and coalesce, assembling themselves into three animated skeletons. These skeletal constructs seem bound to his will, thralls awaiting his every command, their bony fingers twitching with anticipation.
@@ -89,6 +88,53 @@ The next two doors we investigate are in varying states of decay, their interior
 
 The room (and now the hallway) reeks of death. An open stone sarcophagus rests against the far wall, its lid shattered and strewn about the floor. Cannibalistic imagery decorates the chamber.
 
-Back in the torture chamber, Hal discovers a Tiefling captive, teetering on the precipice of death. With a touch of healing magic, he restores them to a semblance of vitality, granting them 8 precious hit points.
+Back in the torture chamber, [[Salah Secumber - Hal]] discovers a Tiefling captive ([[Vendetta Cress]], teetering on the precipice of death. With a touch of healing magic, he restores them to a semblance of vitality, granting them 8 precious hit points.
 
 -----
+We discovered [[Vendetta Cress]], a distributor of fine wines and spirits for establishments under the patronage of the esteemed [[Oathoon Family]]. She had been subjected to the horrors of this dungeon, her mind reeling from the trauma of torture. Sadly, her ordeal had left her with little of value to impart.
+
+Seeking to recover our strength, we retreated to a previously cleared chamber and invoked the restorative power of a long rest. With renewed vigor, we escorted the shaken [[Vendetta Cress]] back to the streets, before venturing once more into the depths of the dungeon.
+
+Beyond the grim torture chamber, a set of stairs descended further into the earth. We followed their path, arriving at a fork in the road, where a single door lay to the south, and two more beckoned to the east.
+
+Behind the second eastern door, four armored figures lay slumbering. With the stealth of a phantom, [[Ira Ferox - Josh]] slipped into the room, his blade finding its mark in the throat of one sleeping guard. As he moved to silence the next, the clang of armor roused the remaining three. A brutal clash ensued, [[Ira Ferox - Josh]] quickly eviscerating a second foe, and after a fierce struggle, we vanquished the remaining two.
+
+In the final room, a sarcophagus overflowed with blood, a macabre tableau. As [[Salah Secumber - Hal]] stepped within, a frail old woman materialized from behind the morbid container.
+
+"Thank goodness, you're here! My heroes!" she exclaimed.
+
+[[Salah Secumber - Hal]] , ever cautious, announced his intent to detect evil, assuring her no offense was meant. In response, the woman's guise dissolved, revealing a malicious entity. She launched a swift attack, soaring over the sarcophagus and inflicting grievous wounds upon [[Salah Secumber - Hal]] before vanishing into invisibility.
+
+I stepped forward, my senses straining to locate the unseen foe. A flurry of attacks found their mark, but she retaliated with an enchantment, compelling me to become her protector. My loyalty twisted, I turned my blade against [[Baktha Tassup - Ryan]]. [[Iliran Tilorri - Mike]] unleashed a thunderous wave, shattering the enchantment and slaying the sorceress, though both [[Baktha Tassup - Ryan]] and I suffered further injuries. We retreated to lick our wounds and find a place of safety to rest.
+
+During [[Baktha Tassup - Ryan]]'s watch, a thunderous commotion echoed through the hallway. A large, ogre-like creature, dragging a massive bat, thundered past, its passage shaking the very foundations of the dungeon. Risen by the disturbance, we followed shortly behind to see where he was headed.
+
+Behind a hidden door, a flooded hallway stretched into the darkness. A distant commotion hinted at activity further within. The door to the east appeared empty, but as [[Baktha Tassup - Ryan]] stepped inside to investigate, four skeletons arose from the water, their bones bleached white, as if cleansed by acid. They surrounded him, delivering a vicious blow. I rushed to his aid, smashing one of the skeletal warriors, while [[Iliran Tilorri - Mike]] unleashed another thunderwave, shattering three more. [[Thomus - Thomas]] dispatched the last.
+
+We continued towards the source of the commotion, passing doused torches that floated eerily in the water. At the hallway's end, we witnessed a brutal struggle atop a mound of corpses. A hulking figure, scarred and wielding a massive club, clashed with a shirtless warrior, his head a skull, his weapons twin scimitars.
+
+The club-wielding giant was revealed to be [[Mortlock Vanthampur]]. The skull-headed warrior fled into the darkness.
+
+[[Mortlock Vanthampur]] revealed the dark truth: his family was paying the [[Dead Three]] cultists to murder citizens, seeking to undermine the [[The Flaming Fist]] and pave the way for [[Thalamra Vanthampur]] to seize control of the [[The Council of Four]] before [[Baldur's Gate]] succumbed to infernal forces. He claimed his brothers had hired the cultists to assassinate him.
+
+He also provided further information. [[Amrik Vanthampur]], proprietor of [[The Low Lantern]], made regular payments to the cultists. [[Thurstwell Vanthampur]] employed imps as spies throughout the city, surveilling the bathhouse and likely aware of our presence, though his sickly nature kept him confined to [[Thalamra Vanthampur]]'s estate.
+
+Pursuing the fleeing cultist leader, we entered a chamber dominated by colossal wooden statues of the [[Dead Three]]. A fierce melee erupted, the cultist leader proving a formidable foe.
+
+He felled [[Baktha Tassup - Ryan]], but we pressed our attack, [[Salah Secumber - Hal]] striking with a guiding bolt. After a brutal exchange, we emerged victorious.
+
+We meticulously scoured the compound, searching for hidden treasures. Our efforts yielded a modest haul of gold, gems, and jewelry.
+
+As we exited the bathhouse, we were confronted by cultists of Tiamat. Their leader, Ultus, declared our doom, and they launched a vicious assault.
+
+We swiftly dispatched the cultists, our blades and spells cutting through their ranks with ease. We then made our way back to the sanctuary of [[The Uncivil Serpent]].
+
+-----
+
+With the grim tidings imparted by [[Mortlock Vanthampur]], we set our sights on [[The Low Lantern]], knowing that the treacherous [[Amrik Vanthampur]] lurked within. But first, we took the opportunity to convert some of our hard-won spoils into coin, visiting various merchants and traders to barter for a fair price.
+
+Our duties to the city not yet fulfilled, we sought out [[Darmin Zodge (Captain)]] to report the successful completion of our mission within the depths of the bathhouse dungeon. The captain, grim-faced but satisfied, acknowledged our service and laid out our next task: the elimination of [[Amrik Vanthampur]]. The web of corruption woven by the Vanthampur family ran deep, and we were tasked with severing another thread.
+
+[[Mission 2 - Eliminate Amrik Vanthampur]]
+
+
