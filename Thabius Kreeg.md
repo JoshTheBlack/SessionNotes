@@ -1,0 +1,1 @@
+[[Elturel]]'s high overseer.  Suspected of playing a role in the fall of Elturel.  Believed to associate with the Vanthampurs.  Specifically [[Thalamra Vanthampur]].

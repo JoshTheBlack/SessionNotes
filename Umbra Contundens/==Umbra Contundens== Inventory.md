@@ -1,6 +1,6 @@
 # Currency & Valuables
 
-- **Gold Pieces (GP):** 92 GP
+- **Gold Pieces (GP):** 242 GP
 - **Silver Pieces (SP):** 1750 SP (175 GP)
 - **Copper Pieces (CP):** 6900 CP (69 GP)
 - **Gold Necklaces (2):** Value unknown
@@ -23,10 +23,10 @@
 
 # III. Weapons & Armor
 
-- **Daggers (15):** Standard melee weapons.
+- **Daggers (18):** Standard melee weapons.
 - **Shortswords (4):** Standard melee weapons.
-- **Skull Flails (7):** Flails with skull-shaped heads.
-- **Chainmail Suits (2):** Medium armor.
+- **Skull Flails (9):** Flails with skull-shaped heads.
+- **Chainmail Suits (6):** Medium armor.
 - **Plate Armor Suit with Helmet:** Heavy armor.
 - **Manacles (6):** Restraints.
 - **Caltrops (20):** Spiked metal objects used to hinder movement.
@@ -38,3 +38,4 @@
 - **Dock Ticket for the Uncivil Serpent:** Allows passage or access to the Uncivil Serpent.
 - **Key Bound in Hair & Lock Bound with Hair:** The key unlocks the lock, which secures the necromancer's spellbook.  Also unlocked treasure chests containing Tiamat's cultists treasure.
 - **Rations (2 Weeks, 1 Person):** Food supplies for one person for two weeks.
+

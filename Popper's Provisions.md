@@ -1,0 +1,1 @@
+A quaint shop in Baldur's Gate, near the wharf.   The owner, Popper, owes us his life.  We saved him and his friend from certain death in an alleyway during the events of [[Mission 2 - Amrik Vanthampur]].

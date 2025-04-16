@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "186cc6eba3d2ba10",
+            "id": "ebdf06197bdefde5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
+                "file": "Campaign Log/Mission 3 - Ransom Demands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "==Umbra Contundens== Inventory"
+              "title": "Mission 3 - Ransom Demands"
+            }
+          },
+          {
+            "id": "17a7ee4879da7a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reya Mantlemorn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reya Mantlemorn"
             }
           }
         ]
@@ -186,21 +200,29 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "186cc6eba3d2ba10",
+  "active": "ebdf06197bdefde5",
   "lastOpenFiles": [
-    "Campaign Log/A Bard's Tale.md",
-    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+    "Campaign Log/Mission 2 - Amrik Vanthampur.md",
     "Campaign Log/Mission 2 - Eliminate Amrik Vanthampur.md",
-    "NPCs/Vanthampurs/Thurstwell Vanthampur.md",
+    "Thabius Kreeg.md",
+    "Reya Mantlemorn.md",
+    "Campaign Log/Mission 3 - Ransom Demands.md",
+    "Popper's Provisions.md",
+    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+    "Images/uncivilserpent.png",
+    "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md",
+    "Factions/The Council of Four.md",
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
     "NPCs/Vanthampurs/Amrik Vanthampur.md",
+    "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
+    "Campaign Log/A Bard's Tale.md",
+    "NPCs/Vanthampurs/Thurstwell Vanthampur.md",
     "Factions/Oathoon Family.md",
     "NPCs/Vendetta Cress.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
-    "Umbra Contundens/==Umbra Contundens== Inventory.md",
     "NPCs/Vanthampurs/Mortlock Vanthampur.md",
     "NPCs/Bane.md",
     "NPCs/Vanthampurs",
-    "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
     "Umbra Contundens/Baktha Tassup - Ryan.md",
     "Umbra Contundens/==Umbra Contundens==.md",
     "NPCs/Tarina (Spy).md",
@@ -208,15 +230,8 @@
     "NPCs/Myrkul.md",
     "NPCs/Bhaal.md",
     "Factions/Dead Three.md",
-    "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
-    "Umbra Contundens/Ira Ferox - Josh.md",
-    "README.md",
     "Images/Spatchcock-Chicken-09.jpg",
     "Images/campaign.jpg",
-    "Spy.md",
-    "NPCs/Ulder Ravenguard.md",
-    "Captain.md",
-    "NPCs/Vanthampurs/Thalamra Vanthampur.md",
     "Images/NPCs/mortlock.jpg",
     "Images/Locations/Elturel_labeled.png",
     "Locations/Elturgard/Elturel Locations",
@@ -227,7 +242,6 @@
     "Images/Maps/Villa.jpg",
     "Images/Maps/The Low Lantern.jpg",
     "Images/Maps/Elfsong Tavern Map.jpg",
-    "Images/Maps/DeadThree_grid.jpg",
     "Images/Locations/bathhousenight.webm",
     "Images/Maps",
     "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
