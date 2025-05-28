@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Log/Mission 3 - Ransom Demands.md",
+                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission 3 - Ransom Demands"
+              "title": "==Umbra Contundens== Inventory"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reya Mantlemorn.md",
+                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reya Mantlemorn"
+              "title": "==Umbra Contundens== Inventory"
             }
           }
         ]
@@ -200,27 +200,29 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9c0dfdd5443ed487",
+  "active": "ebdf06197bdefde5",
   "lastOpenFiles": [
-    "NPCs/The Dead Three",
+    "Campaign Log/Mission 3 - Ransom Demands.md",
     "Campaign Log/Mission 2 - Amrik Vanthampur.md",
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "README.md",
+    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+    "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
+    "NPCs/Reya Mantlemorn.md",
+    "NPCs/Vanthampurs/Thalamra Vanthampur.md",
+    "NPCs/The Dead Three",
     "Campaign Log/Mission 2 - Eliminate Amrik Vanthampur.md",
     "NPCs/Thabius Kreeg.md",
-    "NPCs/Reya Mantlemorn.md",
-    "Campaign Log/Mission 3 - Ransom Demands.md",
     "Locations/Elturgard/Baldurs Gate Locations/Popper's Provisions.md",
-    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "Images/uncivilserpent.png",
     "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md",
     "Factions/The Council of Four.md",
-    "Umbra Contundens/==Umbra Contundens== Inventory.md",
     "NPCs/Vanthampurs/Amrik Vanthampur.md",
     "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
     "Campaign Log/A Bard's Tale.md",
     "NPCs/Vanthampurs/Thurstwell Vanthampur.md",
     "Factions/Oathoon Family.md",
     "NPCs/Vendetta Cress.md",
-    "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
     "NPCs/Vanthampurs/Mortlock Vanthampur.md",
     "NPCs/The Dead Three/Bane.md",
     "NPCs/Vanthampurs",
@@ -229,7 +231,6 @@
     "NPCs/Tarina (Spy).md",
     "Campaign Log/Campaign Background.md",
     "NPCs/The Dead Three/Myrkul.md",
-    "NPCs/The Dead Three/Bhaal.md",
     "Images/Spatchcock-Chicken-09.jpg",
     "Images/campaign.jpg",
     "Images/NPCs/mortlock.jpg",
@@ -247,7 +248,6 @@
     "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm",
     "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
-    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_II_night.webm",
     "Untitled.canvas",
     "Campaign Log/Untitled.canvas"
   ]
