@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
+                "file": "Campaign Log/Mission 3 - Ransom Demands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "==Umbra Contundens== Inventory"
+              "title": "Mission 3 - Ransom Demands"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "==Umbra Contundens== Inventory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,10 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of ==Umbra Contundens== Inventory"
             }
           },
           {
@@ -200,11 +204,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ebdf06197bdefde5",
+  "active": "17a7ee4879da7a01",
   "lastOpenFiles": [
     "Campaign Log/Mission 3 - Ransom Demands.md",
-    "Campaign Log/Mission 2 - Amrik Vanthampur.md",
     "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "Campaign Log/Mission 2 - Amrik Vanthampur.md",
+    "Images/vanthampurevillabasement.webp",
     "README.md",
     "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
     "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
@@ -230,7 +235,6 @@
     "Umbra Contundens/==Umbra Contundens==.md",
     "NPCs/Tarina (Spy).md",
     "Campaign Log/Campaign Background.md",
-    "NPCs/The Dead Three/Myrkul.md",
     "Images/Spatchcock-Chicken-09.jpg",
     "Images/campaign.jpg",
     "Images/NPCs/mortlock.jpg",
@@ -242,7 +246,6 @@
     "Images/Maps/VillaDungeon.jpg",
     "Images/Maps/Villa.jpg",
     "Images/Maps/The Low Lantern.jpg",
-    "Images/Maps/Elfsong Tavern Map.jpg",
     "Images/Locations/bathhousenight.webm",
     "Images/Maps",
     "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
