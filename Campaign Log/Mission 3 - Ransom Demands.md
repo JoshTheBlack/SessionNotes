@@ -115,6 +115,7 @@ As we interrogated [[Thabius Kreeg]], a voice resonated in [[Baktha Tassup - Rya
 
 [[Salah Secumber - Hal]], focusing his divine senses on the shield, declared with certainty that the presence within was most assuredly _not_ celestial. And then, when I took hold of the shield, its voice entered my mind, echoing the same deceptive pleas it had whispered to [[Baktha Tassup - Ryan]]. This also did not comport with the information we had extracted from [[Thurstwell Vanthampur]], who told us the shield contained a devil named Gargoth, who had promised to aid [[Thalamra Vanthampur]] in conquering [[Baldur's Gate]] if freed.  This shield, this "Hidden Lord," held a dark secret, a truth cloaked in deceit, and I intend to uncover it. What foul machinations are at play here, I wonder, twisting truth into insidious lies?
 
+We turn him over to [[Reya Mantlemorn]] wrath and he sputters out his final words as her sword separates his head from his body.
 
 -----------------------------------
 ![[vanthampurevillabasement.webp]]
