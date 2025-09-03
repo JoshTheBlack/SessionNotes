@@ -1,0 +1,131 @@
+{
+  "customFileOrder": {
+    "/": [
+      "Campaign Log",
+      "Umbra Contundens",
+      "Locations",
+      "Factions",
+      "NPCs",
+      "Images",
+      "netlify.toml",
+      "README.md",
+      "Commander Liara Porter.md",
+      "Commander Porter.md"
+    ],
+    "Campaign Log": [
+      "Campaign Log/A Bard's Tale.md",
+      "Campaign Log/Campaign Background.md",
+      "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
+      "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+      "Campaign Log/Mission 2 - Amrik Vanthampur.md",
+      "Campaign Log/Mission 3 - Ransom Demands.md",
+      "Campaign Log/Mission 4 - Journey to Candlekeep.md",
+      "Campaign Log/Mission 5 - Descent Into Avernus.md"
+    ],
+    "Locations": [
+      "Locations/Elturgard.md",
+      "Locations/Elturgard"
+    ],
+    "Locations/Elturgard": [
+      "Locations/Elturgard/Elturel Locations",
+      "Locations/Elturgard/Baldur's Gate.md",
+      "Locations/Elturgard/Baldurs Gate Locations",
+      "Locations/Elturgard/Elturel.md"
+    ],
+    "Locations/Elturgard/Baldurs Gate Locations": [
+      "Locations/Elturgard/Baldurs Gate Locations/Elfsong Tavern.md",
+      "Locations/Elturgard/Baldurs Gate Locations/Popper's Provisions.md",
+      "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
+      "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
+      "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md"
+    ],
+    "Locations/Elturgard/Elturel Locations": [],
+    "Factions": [
+      "Factions/Dead Three.md",
+      "Factions/Hellriders.md",
+      "Factions/Oathoon Family.md",
+      "Factions/The Council of Four.md",
+      "Factions/The Flaming Fist.md",
+      "Factions/The Kenku Killers.md"
+    ],
+    "NPCs": [
+      "NPCs/The Dead Three",
+      "NPCs/Vanthampurs",
+      "NPCs/Darmin Zodge (Captain).md",
+      "NPCs/Falten (Barkeep).md",
+      "NPCs/Murosko Sesprin (Captain).md",
+      "NPCs/Oshallah.md",
+      "NPCs/Reya Mantlemorn.md",
+      "NPCs/Tarina (Spy).md",
+      "NPCs/Thavius Kreeg.md",
+      "NPCs/Ulder Ravenguard.md",
+      "NPCs/Vendetta Cress.md"
+    ],
+    "NPCs/The Dead Three": [
+      "NPCs/The Dead Three/Bane.md",
+      "NPCs/The Dead Three/Bhaal.md",
+      "NPCs/The Dead Three/Myrkul.md"
+    ],
+    "NPCs/Vanthampurs": [
+      "NPCs/Vanthampurs/Amrik Vanthampur.md",
+      "NPCs/Vanthampurs/Mortlock Vanthampur.md",
+      "NPCs/Vanthampurs/Thalamra Vanthampur.md",
+      "NPCs/Vanthampurs/Thurstwell Vanthampur.md"
+    ],
+    "Images": [
+      "Images/Locations",
+      "Images/Maps",
+      "Images/NPCs",
+      "Images/Statblocks",
+      "Images/campaign.jpg",
+      "Images/Ira Ferox screenshot.png",
+      "Images/uncivilserpent.png",
+      "Images/vanthampurevillabasement.webp"
+    ],
+    "Images/Locations": [
+      "Images/Locations/ElfsongTavern",
+      "Images/Locations/baldursgate.jpg",
+      "Images/Locations/Elturel_labeled.png",
+      "Images/Locations/Elturgard.jpg",
+      "Images/Locations/Low_lantern.webp",
+      "Images/Locations/Low_lantern_-_PaF.webp"
+    ],
+    "Images/Locations/ElfsongTavern": [
+      "Images/Locations/ElfsongTavern/Elfsong_beholder.webp",
+      "Images/Locations/ElfsongTavern/Elfsong_Tavern_5e.webp"
+    ],
+    "Images/Maps": [
+      "Images/Maps/Bathhouse.jpg",
+      "Images/Maps/Dark alley.jpg",
+      "Images/Maps/Dark Square.jpg",
+      "Images/Maps/DeadThree_grid.jpg",
+      "Images/Maps/Elfsong Tavern Map.jpg",
+      "Images/Maps/The Low Lantern.jpg",
+      "Images/Maps/Villa.jpg",
+      "Images/Maps/VillaDungeon.jpg"
+    ],
+    "Images/NPCs": [
+      "Images/NPCs/Captain Darmin Zodge.jpeg",
+      "Images/NPCs/Falten.webp",
+      "Images/NPCs/mortlock.jpg",
+      "Images/NPCs/Thalamra.webp",
+      "Images/NPCs/UlderRavengard.webp"
+    ],
+    "Images/Statblocks": [
+      "Images/Statblocks/Bandit.png",
+      "Images/Statblocks/Captain Sesprin.png"
+    ],
+    "Umbra Contundens": [
+      "Umbra Contundens/The Caravan.md",
+      "Umbra Contundens/==Umbra Contundens==.md",
+      "Umbra Contundens/==Umbra Contundens== Inventory.md",
+      "Umbra Contundens/Baktha Tassup - Ryan.md",
+      "Umbra Contundens/Iliran Tilorri - Mike.md",
+      "Umbra Contundens/Ira Ferox - Josh.md",
+      "Umbra Contundens/Salah Secumber - Hal.md",
+      "Umbra Contundens/Thomus - Thomas.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}
