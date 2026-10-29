@@ -11,9 +11,7 @@ LANDING_DESCRIPTION = "Campaign notes: Descent into Avernus and the Dalelands"
 LANDING_PAGE = "README"
 # (Optional) Site title on landing page
 LANDING_TITLE = "The Adventure Journals"
-PYTHON_VERSION = "3.8"
-# Netlify's mise has no GitHub attestation for python 3.8.20, which fails the install step
-MISE_PYTHON_GITHUB_ATTESTATIONS = "false"
+PYTHON_VERSION = "3.12"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/JoshTheBlack/SessionNotes/"
 # (Optional) Site title in navbar
