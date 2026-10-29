@@ -19,6 +19,13 @@
       "Images/vanthampurevillabasement.webp"
     ],
     "Images/Locations": [
+      "Images/Locations/Avernus.webp",
+      "Images/Locations/Candlekeep.jpg",
+      "Images/Locations/Cormanthor.jpg",
+      "Images/Locations/Deepingdale.png",
+      "Images/Locations/Fort Knucklebone.jpg",
+      "Images/Locations/Shadowdale crest.png",
+      "Images/Locations/Tantras crest.png",
       "Images/Locations/ElfsongTavern",
       "Images/Locations/baldursgate.jpg",
       "Images/Locations/Elturel_labeled.png",
@@ -41,6 +48,20 @@
       "Images/Maps/VillaDungeon.jpg"
     ],
     "Images/NPCs": [
+      "Images/NPCs/Bane.jpg",
+      "Images/NPCs/Baphomet.png",
+      "Images/NPCs/Bhaal.jpg",
+      "Images/NPCs/Gargauth.png",
+      "Images/NPCs/Hellrider.jpg",
+      "Images/NPCs/Lord Kostchtchie.jpeg",
+      "Images/NPCs/Lulu.jpg",
+      "Images/NPCs/Mordenkainen.jpg",
+      "Images/NPCs/Myrkul.jpg",
+      "Images/NPCs/Selune.jpg",
+      "Images/NPCs/Shar.png",
+      "Images/NPCs/Torm.jpg",
+      "Images/NPCs/Yeenoghu.png",
+      "Images/NPCs/Zariel.jpg",
       "Images/NPCs/Captain Darmin Zodge.jpeg",
       "Images/NPCs/Falten.webp",
       "Images/NPCs/mortlock.jpg",
@@ -90,13 +111,13 @@
       "Descent into Avernus/Party"
     ],
     "Descent into Avernus/Campaign Log": [
+      "Descent into Avernus/Campaign Log/Campaign Background.md",
       "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities",
       "Descent into Avernus/Campaign Log/Act 2 - Elturel Has Fallen",
       "Descent into Avernus/Campaign Log/Act 3 - Avernus",
       "Descent into Avernus/Campaign Log/Act 4 - Sword of Zariel",
       "Descent into Avernus/Campaign Log/Act 5 - Escape from Avernus",
-      "Descent into Avernus/Campaign Log/A Bard's Tale.md",
-      "Descent into Avernus/Campaign Log/Campaign Background.md"
+      "Descent into Avernus/Campaign Log/A Bard's Tale.md"
     ],
     "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities": [
       "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities/Mission 1 - Kill the Dead Three's Acolytes.md",
@@ -112,10 +133,10 @@
       "Descent into Avernus/Campaign Log/Act 2 - Elturel Has Fallen/Mission 9 - The Cemetery and the Grand Duke.md"
     ],
     "Descent into Avernus/Campaign Log/Act 3 - Avernus": [
-      "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 11 - Haruman's Hill.md",
-      "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 13 - Kostchtchie's Maw.md",
       "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 10 - Fort Knucklebone.md",
-      "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 12 - The Crypt of the Hellriders.md"
+      "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 11 - Haruman's Hill.md",
+      "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 12 - The Crypt of the Hellriders.md",
+      "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 13 - Kostchtchie's Maw.md"
     ],
     "Descent into Avernus/Campaign Log/Act 4 - Sword of Zariel": [
       "Descent into Avernus/Campaign Log/Act 4 - Sword of Zariel/Mission 15 - Idyllglen.md",

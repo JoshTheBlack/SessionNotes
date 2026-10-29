@@ -15,15 +15,10 @@ We put [[Zariel]]'s sword in her hands, and it was enough. The angel in there an
 The shield? [[Zariel]] destroyed it. [[Gargauth]] doesn't get to whisper in anyone's ear anymore.
 
 > [!warning] Loose ends
-> These threads were never wrapped up at the table. Fill in anything you remember:
-> - What became of [[Lulu]], [[Olanthius]], [[Lord Kostchtchie]] and [[The Caravan]]? *We don't know.*
-> - What became of [[Ulder Ravengard]] and [[Reya Mantlemorn]]? *Never wrapped up.*
-> - The loose ends back in [[Baldur's Gate]] with [[Commander Liara Portyr]]. *We left it with us rising from Avernus.*
-
-> [!info]- What the book says happens (spoilers)
-> In the module's last chapter, *Escape from Avernus*, the heroes present [[Zariel]] with her sword and try to win her back to the light. If she accepts, her halo and fiendish features fall away and her angelic form returns. She then shatters the [[The Companion|Companion]], the corrupted sun that bound the city, which frees the planetar trapped inside, and the planetar lifts Elturel out of the Nine Hells. [[Zariel]] gives a golden feather that can be used once to call her and [[Lulu]].
->
-> If the persuasion fails, she attacks instead, and killing her also frees Elturel. Other endings include serving her, allying with Bel, [[Gargauth]], a demon lord, or Tiamat's champion Arkhan the Cruel, or putting a new ruler on the throne of Avernus.
+> These threads were never wrapped up at the table. 
+> - What became of [[Lulu]], [[Olanthius]], [[Lord Kostchtchie]] and [[The Caravan]]? 
+> - What became of [[Ulder Ravengard]] and [[Reya Mantlemorn]]? 
+> - The loose ends back in [[Baldur's Gate]] with [[Commander Liara Portyr]]. 
 
 Previous: [[Mission 15 - Idyllglen]]
 
