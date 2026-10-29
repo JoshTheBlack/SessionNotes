@@ -1,0 +1,359 @@
+{
+  "main": {
+    "id": "9b1cd1d1047eeeef",
+    "type": "split",
+    "children": [
+      {
+        "id": "637cf1f88a99e127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebdf06197bdefde5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Log/Mission 3 - Ransom Demands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mission 3 - Ransom Demands"
+            }
+          },
+          {
+            "id": "17a7ee4879da7a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "==Umbra Contundens== Inventory"
+            }
+          },
+          {
+            "id": "496f4c32fd44a44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umbra Contundens/The Caravan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Caravan"
+            }
+          },
+          {
+            "id": "61c48b531353eabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Log/Mission 5 - Descent Into Avernus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mission 5 - Descent Into Avernus"
+            }
+          },
+          {
+            "id": "0a759d5e47a12e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Log/Mission 5 - Descent Into Avernus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mission 5 - Descent Into Avernus"
+            }
+          },
+          {
+            "id": "2c1c6e63e47530b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Log/Mission 5 - Descent Into Avernus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mission 5 - Descent Into Avernus"
+            }
+          },
+          {
+            "id": "6df1a11f07ee42f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commander Liara Porter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commander Liara Porter"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2ba6cd99fa93f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "4400cd18201302d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c0dfdd5443ed487",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dc962f4fbe058fc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "oshallah",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9042c1d0bed26e67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "0373d9015a0e4daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecbda6cce6267a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcea57d225cbd32b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "11dbfed776b30a97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "e52cc3b35e96e987",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c332ca10affe7dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ==Umbra Contundens== Inventory"
+            }
+          },
+          {
+            "id": "880830608a224201",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d4b0c974a44e9b4a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "39581017030a991a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "2dc4a7c671864564",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "96d0d8f1ccd62720",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "61c48b531353eabf",
+  "lastOpenFiles": [
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "Campaign Log/Mission 5 - Descent Into Avernus.md",
+    "Campaign Log/Mission 3 - Ransom Demands.md",
+    "Commander Liara Porter.md",
+    "Umbra Contundens/The Caravan.md",
+    "Campaign Log/Mission 4 - Journey to Candlekeep.md",
+    "NPCs/Thavius Kreeg.md",
+    "README.md",
+    "Commander Porter.md",
+    "Campaign Log/Mission 2 - Amrik Vanthampur.md",
+    "Images/vanthampurevillabasement.webp",
+    "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+    "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
+    "NPCs/Reya Mantlemorn.md",
+    "NPCs/Vanthampurs/Thalamra Vanthampur.md",
+    "NPCs/The Dead Three",
+    "Campaign Log/Mission 2 - Eliminate Amrik Vanthampur.md",
+    "Locations/Elturgard/Baldurs Gate Locations/Popper's Provisions.md",
+    "Images/uncivilserpent.png",
+    "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md",
+    "Factions/The Council of Four.md",
+    "NPCs/Vanthampurs/Amrik Vanthampur.md",
+    "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
+    "Campaign Log/A Bard's Tale.md",
+    "NPCs/Vanthampurs/Thurstwell Vanthampur.md",
+    "Factions/Oathoon Family.md",
+    "NPCs/Vendetta Cress.md",
+    "NPCs/Vanthampurs/Mortlock Vanthampur.md",
+    "NPCs/The Dead Three/Bane.md",
+    "NPCs/Vanthampurs",
+    "Images/Spatchcock-Chicken-09.jpg",
+    "Images/campaign.jpg",
+    "Images/NPCs/mortlock.jpg",
+    "Images/Locations/Elturel_labeled.png",
+    "Locations/Elturgard/Elturel Locations",
+    "Locations/Elturgard",
+    "Images/Locations/baldursgate.jpg",
+    "Locations/Elturgard/Baldurs Gate Locations",
+    "Images/Maps/VillaDungeon.jpg",
+    "Images/Maps/Villa.jpg",
+    "Images/Maps/The Low Lantern.jpg",
+    "Images/Locations/bathhousenight.webm",
+    "Images/Maps",
+    "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
+    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm",
+    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
+    "Untitled.canvas",
+    "Campaign Log/Untitled.canvas"
+  ]
+}

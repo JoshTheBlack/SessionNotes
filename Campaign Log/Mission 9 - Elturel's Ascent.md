@@ -1,0 +1,1 @@
+Lulu, fully restored advises us of the ways we can destroy the shield I've been carrying.  She says a good God can destroy it, an arch devil can destroy it, and some weird planetary things could destroy it.  

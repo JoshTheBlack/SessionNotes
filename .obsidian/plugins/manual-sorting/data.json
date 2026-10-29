@@ -1,6 +1,7 @@
 {
   "customFileOrder": {
     "/": [
+      "Untitled.base",
       "Campaign Log",
       "Umbra Contundens",
       "Locations",
@@ -20,9 +21,14 @@
       "Campaign Log/Mission 2 - Amrik Vanthampur.md",
       "Campaign Log/Mission 3 - Ransom Demands.md",
       "Campaign Log/Mission 4 - Journey to Candlekeep.md",
-      "Campaign Log/Mission 5 - Descent Into Avernus.md"
+      "Campaign Log/Mission 5 - Elturel's Descent.md",
+      "Campaign Log/Mission 6 - Descent Into Avernus.md",
+      "Campaign Log/Mission 7 - Where Demons are Created.md",
+      "Campaign Log/Mission 8 - The Bleeding Citadel.md",
+      "Campaign Log/Mission 9 - Elturel's Ascent.md"
     ],
     "Locations": [
+      "Locations/Infernal Rapture.md",
       "Locations/Elturgard.md",
       "Locations/Elturgard"
     ],
@@ -51,6 +57,7 @@
     "NPCs": [
       "NPCs/The Dead Three",
       "NPCs/Vanthampurs",
+      "NPCs/Mahadi The Rakshasa.md",
       "NPCs/Darmin Zodge (Captain).md",
       "NPCs/Falten (Barkeep).md",
       "NPCs/Murosko Sesprin (Captain).md",
@@ -116,6 +123,7 @@
       "Images/Statblocks/Captain Sesprin.png"
     ],
     "Umbra Contundens": [
+      "Umbra Contundens/Zaleria Grimwood - Hannah.md",
       "Umbra Contundens/The Caravan.md",
       "Umbra Contundens/==Umbra Contundens==.md",
       "Umbra Contundens/==Umbra Contundens== Inventory.md",

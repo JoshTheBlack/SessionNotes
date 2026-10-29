@@ -6,5 +6,7 @@
 [[Cartra Boldenstern]] - Dwarf, rescued from building collapse
 [[Pillster Pebblechuck]] - Halfling baker, with family
 [[Shora Hevron]] - Small female child
+[[Seltern Obranch]] - Druid
+[[Trevick Fanthorm]] - Human Guard of Torm
 
 

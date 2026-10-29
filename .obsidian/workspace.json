@@ -13,16 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Log/Mission 3 - Ransom Demands.md",
+                "file": "Campaign Log/Mission 5 - Elturel's Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mission 3 - Ransom Demands"
+              "title": "Mission 5 - Elturel's Descent"
             }
           },
           {
-            "id": "17a7ee4879da7a01",
+            "id": "2cfba18e6a52af06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Log/Mission 7 - Where Demons are Created.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mission 7 - Where Demons are Created"
+            }
+          },
+          {
+            "id": "8f3604b96d0ffb59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Log/Mission 5 - Elturel's Descent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mission 5 - Elturel's Descent"
+            }
+          },
+          {
+            "id": "16d36065efee523f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,49 +64,21 @@
             }
           },
           {
-            "id": "496f4c32fd44a44a",
+            "id": "ee19155511c80d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/The Caravan.md",
+                "file": "Campaign Log/Mission 8 - The Bleeding Citadel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Caravan"
-            }
-          },
-          {
-            "id": "61c48b531353eabf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Log/Mission 5 - Descent Into Avernus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mission 5 - Descent Into Avernus"
-            }
-          },
-          {
-            "id": "6df1a11f07ee42f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commander Liara Porter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Commander Liara Porter"
+              "title": "Mission 8 - The Bleeding Citadel"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -110,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oshallah",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
+                "file": "Campaign Log/Mission 8 - The Bleeding Citadel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ==Umbra Contundens== Inventory"
+              "title": "Outline"
             }
           },
           {
@@ -257,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -265,6 +267,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -276,16 +279,28 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "17a7ee4879da7a01",
+  "active": "ee19155511c80d14",
   "lastOpenFiles": [
-    "Campaign Log/Mission 5 - Descent Into Avernus.md",
-    "Umbra Contundens/The Caravan.md",
-    "Umbra Contundens/==Umbra Contundens== Inventory.md",
-    "Campaign Log/Mission 4 - Journey to Candlekeep.md",
-    "NPCs/Thavius Kreeg.md",
+    "Untitled.base",
+    "Campaign Log/Mission 9 - Elturel's Ascent.md",
+    "Campaign Log/Mission 8 - The Bleeding Citadel.md",
+    "Campaign Log/Mission 6 - Descent Into Avernus.md",
     "README.md",
+    "Umbra Contundens/==Umbra Contundens== Inventory.md",
+    "Campaign Log/Mission 7 - Where Demons are Created.md",
+    "Campaign Log/Untitled.base",
+    "Umbra Contundens/Zaleria Grimwood - Hannah.md",
+    "Campaign Log/Mission 5 - Elturel's Descent.md",
+    "NPCs/Mahadi The Rakshasa.md",
+    "Umbra Contundens/The Caravan.md",
+    "Umbra Contundens/Salah Secumber - Hal.md",
+    "Umbra Contundens/Iliran Tilorri - Mike.md",
+    "Umbra Contundens/Thomus - Thomas.md",
+    "Campaign Log/Mission 4 - Journey to Candlekeep.md",
     "Campaign Log/Mission 3 - Ransom Demands.md",
+    "Locations/Infernal Rapture.md",
     "Commander Liara Porter.md",
+    "NPCs/Thavius Kreeg.md",
     "Commander Porter.md",
     "Campaign Log/Mission 2 - Amrik Vanthampur.md",
     "Images/vanthampurevillabasement.webp",
@@ -295,18 +310,7 @@
     "NPCs/Vanthampurs/Thalamra Vanthampur.md",
     "NPCs/The Dead Three",
     "Campaign Log/Mission 2 - Eliminate Amrik Vanthampur.md",
-    "Locations/Elturgard/Baldurs Gate Locations/Popper's Provisions.md",
     "Images/uncivilserpent.png",
-    "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md",
-    "Factions/The Council of Four.md",
-    "NPCs/Vanthampurs/Amrik Vanthampur.md",
-    "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
-    "Campaign Log/A Bard's Tale.md",
-    "NPCs/Vanthampurs/Thurstwell Vanthampur.md",
-    "Factions/Oathoon Family.md",
-    "NPCs/Vendetta Cress.md",
-    "NPCs/Vanthampurs/Mortlock Vanthampur.md",
-    "NPCs/The Dead Three/Bane.md",
     "NPCs/Vanthampurs",
     "Images/Spatchcock-Chicken-09.jpg",
     "Images/campaign.jpg",
@@ -322,8 +326,6 @@
     "Images/Locations/bathhousenight.webm",
     "Images/Maps",
     "Images/Locations/Bathhouse Day_NoAudio_Low.webm",
-    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_day.webm",
-    "Images/Locations/ElfsongTavern/MAP_Avernus_Elfsong_I_night.webm",
     "Untitled.canvas",
     "Campaign Log/Untitled.canvas"
   ]
