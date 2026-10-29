@@ -22,7 +22,7 @@ He is from Flan, part of a minor noble family. They had no designs on him follow
 A man named [[Rolf Twirtho]] approaches and asks for help finding his brother, [[Adon Twirtho]]. He offers 50 gp for our trouble. We oblige.
 
 ## The Ones From My Vision
-The people the moon showed me are [[Brok Digginstone]], a dwarven bard who was playing bagpipes not long ago; [[Havelin Alderhilts]], an elven ranger celebrating an orc he killed earlier today saving Shadowdale; and [[Teager]], an elven wizard looking bedraggled and threadbare. A flock, then. Mine to shepherd, whether they know it or not.
+The people the moon showed me are [[Brok Digginstone]], a dwarven bard who was playing bagpipes as I arrived; [[Havelin Alderhilts]], an elven ranger celebrating an orc he killed earlier today saving Shadowdale; and [[Teager]], an elven wizard looking bedraggled and threadbare. A flock, then. Mine to shepherd, whether they know it or not.
 
 ## The Broken Bridge
 We set out. I put on a cloak and pretend to carry the ransom. Our destination is a ruined tower bridge: the towers still stand on either side of a creek, but the bridge between them is long gone. It's about a three-hour walk from [[Shadowdale]]. The journey is uneventful, as the best ones are.
