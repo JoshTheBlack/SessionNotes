@@ -62,6 +62,6 @@ These fanatics fought with the desperation of the doomed, refusing surrender. We
 
 With the riff-raff disposed of, we decided it was time to collect on our investment. We marched [[Amrik Vanthampur]] towards his family estate.
 
-Next: [[Mission 3 - Ransom Demands]]
+Previous: [[Mission 2 - The Acolyte's Hideout]] · Next: [[Mission 4 - Ransom Demands]]
 
 #session #mission

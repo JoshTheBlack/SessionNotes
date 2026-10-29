@@ -15,7 +15,7 @@ The entire party shares a dark secret.  A decade ago, we schemed together to ste
 After the [[The Kenku Killers]] failed to exact revenge, the owner of [[The Low Lantern]] tried to exact justice by calling the [[The Flaming Fist]] and offering a reward.  It's been long enough now the heat has long since died down.  I'm actually back in Baldur's Gate, unimpeded.  
 
 ## Current Events
-[[Elturel]], the capital of [[Elturgard]], has fallen *very recently*.  Nobody knows why, but we have begun to see an influx of refugees over the past few days.  [[The Flaming Fist]] has seen a large expansion of power in the days since and have sealed the gates allowing nobody in or out. Their Grand Duke, [[Ulder Ravenguard]] has gone missing.  Locals are afraid Baldur's Gate will suffer the same fate as [[Elturel]].  Rumor is it's just a smoking pit now.  
+[[Elturel]], the capital of [[Elturgard]], has fallen *very recently*.  Nobody knows why, but we have begun to see an influx of refugees over the past few days.  [[The Flaming Fist]] has seen a large expansion of power in the days since and have sealed the gates allowing nobody in or out. Their Grand Duke, [[Ulder Ravengard]] has gone missing.  Locals are afraid Baldur's Gate will suffer the same fate as [[Elturel]].  Rumor is it's just a smoking pit now.  
 
 We have just been drafted by [[The Flaming Fist]] to help defend the city.  We were ordered to report to [[Darmin Zodge (Captain)]], currently perched at the Basilisk Gate.  He asks us to assist with a problem while [[The Flaming Fist]] maintains order.  
 

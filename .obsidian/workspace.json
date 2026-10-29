@@ -55,30 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umbra Contundens/==Umbra Contundens== Inventory.md",
+                "file": "Descent into Avernus/NPCs/Falten (Barkeep).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "==Umbra Contundens== Inventory"
-            }
-          },
-          {
-            "id": "ee19155511c80d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Descent into Avernus/Campaign Log/Mission 9 - Elturel's Ascent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mission 9 - Elturel's Ascent"
+              "title": "Falten (Barkeep)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descent into Avernus/Campaign Log/Mission 9 - Elturel's Ascent.md",
+                "file": "Descent into Avernus/NPCs/Falten (Barkeep).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -279,36 +265,42 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ee19155511c80d14",
+  "active": "16d36065efee523f",
   "lastOpenFiles": [
-    "World/Gods/Shar.md",
-    "Dalelands/Dalelands.md",
-    "Descent into Avernus/Descent into Avernus.md",
-    "README.md",
-    "Dalelands/Factions/The Silverstars.md",
-    "World/Rules/Sacred Flame.md",
+    "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities/Mission 1 - Kill the Dead Three's Acolytes.md",
+    "Descent into Avernus/NPCs/Jhessa Brightstar.md",
+    "Descent into Avernus/NPCs/Crokek'toeck.md",
+    "Descent into Avernus/NPCs/Alazub.md",
+    "Descent into Avernus/Locations/Crypt of the Hellriders.md",
+    "Descent into Avernus/NPCs/Mordenkainen.md",
+    "Images/Statblocks/Captain Sessprin.png",
+    "Descent into Avernus/NPCs/Yeenoghu.md",
+    "Descent into Avernus/NPCs/Yael.md",
+    "Descent into Avernus/NPCs/Ulder Ravengard.md",
+    "Descent into Avernus/NPCs/Traxigor.md",
+    "Descent into Avernus/NPCs/Trantolox.md",
+    "Descent into Avernus/NPCs/Sylvira Savikas.md",
+    "Descent into Avernus/NPCs/Satiir Thione-Hhune.md",
+    "Descent into Avernus/NPCs/Pherria Jynks.md",
+    "Descent into Avernus/NPCs/Murosko Sessprin (Captain).md",
+    "Descent into Avernus/NPCs/Lord Kostchtchie.md",
+    "Descent into Avernus/NPCs/Haruman.md",
+    "Descent into Avernus/NPCs/Gargauth.md",
+    "Descent into Avernus/NPCs/Falaster Fisk.md",
+    "Descent into Avernus/NPCs/Commander Liara Portyr.md",
+    "Descent into Avernus/NPCs/Chukka.md",
+    "Descent into Avernus/Locations/Idyllglen.md",
+    "Descent into Avernus/Campaign Log/Act 4 - Sword of Zariel/Mission 15 - Idyllglen.md",
+    "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 13 - Kostchtchie's Maw.md",
+    "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 11 - Haruman's Hill.md",
+    "Descent into Avernus/Campaign Log/Mission 9 - Elturel's Ascent.md",
+    "Descent into Avernus/Campaign Log/Act 5 - Escape from Avernus",
+    "Descent into Avernus/Campaign Log/Act 4 - Sword of Zariel",
+    "Descent into Avernus/Campaign Log/Act 3 - Avernus",
+    "Descent into Avernus/Campaign Log/Act 2 - Elturel Has Fallen",
+    "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities",
     "World/Rules",
-    "World/Places/Tantras.md",
-    "World/Places/Cormanthor.md",
-    "World/Places/Deepingdale.md",
-    "World/Places/Shadowdale.md",
-    "Dalelands/Locations/The Broken Tower Bridge.md",
-    "Dalelands/Locations/Old Skull Inn.md",
-    "Dalelands/NPCs/Adon Twirtho.md",
-    "Dalelands/NPCs/Rolf Twirtho.md",
-    "Dalelands/NPCs/Offsha Di'aylen.md",
-    "Dalelands/Party/Teager.md",
-    "Dalelands/Party/Havelin Alderhilts.md",
-    "Dalelands/Party/Brok Digginstone.md",
-    "Dalelands/Party/Warden Morn Ingwood.md",
-    "Dalelands/Campaign Log/Session 1 - To New Beginnings.md",
     "Dalelands/Campaign Log/Session 1 - To New Beginnings.md.tmp.26648.a026d490a4ab",
-    "World/Gods/Baphomet.md",
-    "World/Gods/Moraden.md",
-    "World/Gods/Selûne.md",
-    "World/Gods/Torm.md",
-    "Descent into Avernus/NPCs/Abathrax.md",
-    "Descent into Avernus/NPCs/Chucka.md",
     "Descent into Avernus/NPCs/The Caravan",
     "Descent into Avernus/Items",
     "Images/vanthampurevillabasement.webp",
@@ -317,16 +309,10 @@
     "Images/campaign.jpg",
     "Images/Locations/ElfsongTavern/Elfsong_beholder.webp",
     "Untitled.base",
-    "Campaign Log/Untitled.base",
-    "NPCs/The Dead Three",
-    "NPCs/Vanthampurs",
     "Images/Spatchcock-Chicken-09.jpg",
     "Images/NPCs/mortlock.jpg",
     "Images/Locations/Elturel_labeled.png",
-    "Locations/Elturgard/Elturel Locations",
-    "Locations/Elturgard",
     "Images/Locations/baldursgate.jpg",
-    "Images/Maps/VillaDungeon.jpg",
     "Untitled.canvas",
     "Campaign Log/Untitled.canvas"
   ]

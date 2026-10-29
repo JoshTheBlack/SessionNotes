@@ -80,6 +80,6 @@ Out on the street we meet Tiamat's cultists. Their leader, Ultus, proclaims our 
 ## Loose Ends
 We trade loot for coin with every merchant who'll deal, then report to [[Darmin Zodge (Captain)]]. He's grim but satisfied and gives us our next job: kill [[Amrik Vanthampur]]. The Vanthampur web runs deep, and someone has to start cutting threads.
 
-Next: [[Mission 2 - Amrik Vanthampur]]
+Previous: [[Mission 1 - Kill the Dead Three's Acolytes]] · Next: [[Mission 3 - Amrik Vanthampur]]
 
 #session #mission

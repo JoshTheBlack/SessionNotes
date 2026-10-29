@@ -54,14 +54,14 @@ The [[Hellriders]] in that song were paladins sworn to guard Elturel. Some say t
 Shouting downstairs. We steel ourselves.
 
 > [!info]- The Stats
-> | ![[Captain Sesprin.png]] | ![[Bandit.png]] |
+> | ![[Captain Sessprin.png]] | ![[Bandit.png]] |
 > | ------------------------ | --------------- |
 
-[[Murosko Sesprin (Captain)]], "Deadeye" to his friends, tramps up the stairs with a gaggle of hired swords and growls for [[Tarina (Spy)]]. I point helpfully at the room where we've tucked her away with [[Thomus - Thomas]], while the rest of [[==Umbra Contundens==]] pretends to play bones like a bunch of harmless drunks.
+[[Murosko Sessprin (Captain)]], "Deadeye" to his friends, tramps up the stairs with a gaggle of hired swords and growls for [[Tarina (Spy)]]. I point helpfully at the room where we've tucked her away with [[Thomus - Thomas]], while the rest of [[==Umbra Contundens==]] pretends to play bones like a bunch of harmless drunks.
 
 He kicks the door in and walks straight into our trap. For a beat, he just stands there, stunned.
 
-[[Baktha Tassup - Ryan]] draws first blood, flattening one goon with a single blow. [[Iliran Tilorri - Mike]] takes the second, and the rest of Sesprin's crew drop their weapons and *run*. Sesprin himself doesn't last long. Cowards and captains: the same thing, in the end.
+[[Baktha Tassup - Ryan]] draws first blood, flattening one goon with a single blow. [[Iliran Tilorri - Mike]] takes the second, and the rest of Sessprin's crew drop their weapons and *run*. Sessprin himself doesn't last long. Cowards and captains: the same thing, in the end.
 
 ## The Aftermath
 [[Thomus - Thomas]] took a nasty blow and went down, so we spend a while patching him up and wrapping the rest of our scrapes.
@@ -73,6 +73,6 @@ The [[Dead Three]] acolytes are holed up in a public bathhouse a few blocks nort
 
 A nobody's bathhouse, hiding a death cult, belonging to the woman who wants the Grand Duke's chair. I don't believe in coincidence. I believe in swords.
 
-Next: [[Mission 1b - The Acolyte's Hideout]]
+Next: [[Mission 2 - The Acolyte's Hideout]]
 
 #session #mission

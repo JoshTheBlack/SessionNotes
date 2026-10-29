@@ -9,7 +9,7 @@ Welcome. These are the campaign notes of the table, written the way the characte
 
 - [[Campaign Background]] — where it begins
 - [[Mission 1 - Kill the Dead Three's Acolytes]] — the first job
-- [[Mission 9 - Elturel's Ascent]] — where the notes end
+- [[Mission 16 - Elturel's Ascent]] — the climb out
 
 ## [[Dalelands]]
 *Warden Morn Ingwood's journal.* A moon-touched wood elf, a vision, and a knight of Torm looking for vanished priests. Starts in Shadowdale, in the days right after Elturel's fall, and one day our heroes will meet Ira's.

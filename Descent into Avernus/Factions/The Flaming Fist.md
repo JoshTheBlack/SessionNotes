@@ -1,7 +1,7 @@
-A mercenary army paid by the patriars to be the town guard.  They are here more to protect the patriars interests, with the city's protection being a byproduct.  They've seen a massive boost in power ever since [[Ulder Ravenguard]] became the Grand Duke.
+A mercenary army paid by the patriars to be the town guard.  They are here more to protect the patriars interests, with the city's protection being a byproduct.  They've seen a massive boost in power ever since [[Ulder Ravengard]] became the Grand Duke.
 
 #### Members
-- [[Ulder Ravenguard]] (Leader, also the Grand Duke of [[The Council of Four]], missing)
+- [[Ulder Ravengard]] (Leader, also the Grand Duke of [[The Council of Four]], missing)
 - [[Darmin Zodge (Captain)]]
 
 #### Acts
