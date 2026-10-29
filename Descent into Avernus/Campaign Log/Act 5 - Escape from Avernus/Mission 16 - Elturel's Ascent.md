@@ -19,7 +19,6 @@ The shield? [[Zariel]] destroyed it. [[Gargauth]] doesn't get to whisper in anyo
 > - What became of [[Lulu]], [[Olanthius]], [[Lord Kostchtchie]] and [[The Caravan]]? *We don't know.*
 > - What became of [[Ulder Ravengard]] and [[Reya Mantlemorn]]? *Never wrapped up.*
 > - The loose ends back in [[Baldur's Gate]] with [[Commander Liara Portyr]]. *We left it with us rising from Avernus.*
-> - **Open question:** the notes say [[Zariel]] cut the chains but not *how* we got there. Did we redeem her, make a deal, or something else? Did the sword go to her?
 
 > [!info]- What the book says happens (spoilers)
 > In the module's last chapter, *Escape from Avernus*, the heroes present [[Zariel]] with her sword and try to win her back to the light. If she accepts, her halo and fiendish features fall away and her angelic form returns. She then shatters the [[The Companion|Companion]], the corrupted sun that bound the city, which frees the planetar trapped inside, and the planetar lifts Elturel out of the Nine Hells. [[Zariel]] gives a golden feather that can be used once to call her and [[Lulu]].
