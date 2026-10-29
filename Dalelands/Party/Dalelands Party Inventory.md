@@ -1,4 +1,4 @@
-The party's shared treasure and gear. Items are crossed off when a character takes one. *(This is the Dalelands counterpart to the [[==Umbra Contundens== Inventory]].)*
+The party's shared treasure and gear. Items are crossed off when a character takes one. 
 
 ## I. Currency & Valuables
 - **Platinum (PP):** 26
