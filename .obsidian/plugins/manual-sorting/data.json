@@ -1,83 +1,12 @@
 {
   "customFileOrder": {
     "/": [
-      "Untitled.base",
-      "Campaign Log",
-      "Umbra Contundens",
-      "Locations",
-      "Factions",
-      "NPCs",
-      "Images",
-      "netlify.toml",
       "README.md",
-      "Commander Liara Porter.md",
-      "Commander Porter.md"
-    ],
-    "Campaign Log": [
-      "Campaign Log/A Bard's Tale.md",
-      "Campaign Log/Campaign Background.md",
-      "Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
-      "Campaign Log/Mission 1b - The Acolyte's Hideout.md",
-      "Campaign Log/Mission 2 - Amrik Vanthampur.md",
-      "Campaign Log/Mission 3 - Ransom Demands.md",
-      "Campaign Log/Mission 4 - Journey to Candlekeep.md",
-      "Campaign Log/Mission 5 - Elturel's Descent.md",
-      "Campaign Log/Mission 6 - Descent Into Avernus.md",
-      "Campaign Log/Mission 7 - Where Demons are Created.md",
-      "Campaign Log/Mission 8 - The Bleeding Citadel.md",
-      "Campaign Log/Mission 9 - Elturel's Ascent.md"
-    ],
-    "Locations": [
-      "Locations/Infernal Rapture.md",
-      "Locations/Elturgard.md",
-      "Locations/Elturgard"
-    ],
-    "Locations/Elturgard": [
-      "Locations/Elturgard/Elturel Locations",
-      "Locations/Elturgard/Baldur's Gate.md",
-      "Locations/Elturgard/Baldurs Gate Locations",
-      "Locations/Elturgard/Elturel.md"
-    ],
-    "Locations/Elturgard/Baldurs Gate Locations": [
-      "Locations/Elturgard/Baldurs Gate Locations/Elfsong Tavern.md",
-      "Locations/Elturgard/Baldurs Gate Locations/Popper's Provisions.md",
-      "Locations/Elturgard/Baldurs Gate Locations/The Bathhouse.md",
-      "Locations/Elturgard/Baldurs Gate Locations/The Low Lantern.md",
-      "Locations/Elturgard/Baldurs Gate Locations/Uncivil Serpent.md"
-    ],
-    "Locations/Elturgard/Elturel Locations": [],
-    "Factions": [
-      "Factions/Dead Three.md",
-      "Factions/Hellriders.md",
-      "Factions/Oathoon Family.md",
-      "Factions/The Council of Four.md",
-      "Factions/The Flaming Fist.md",
-      "Factions/The Kenku Killers.md"
-    ],
-    "NPCs": [
-      "NPCs/The Dead Three",
-      "NPCs/Vanthampurs",
-      "NPCs/Mahadi The Rakshasa.md",
-      "NPCs/Darmin Zodge (Captain).md",
-      "NPCs/Falten (Barkeep).md",
-      "NPCs/Murosko Sesprin (Captain).md",
-      "NPCs/Oshallah.md",
-      "NPCs/Reya Mantlemorn.md",
-      "NPCs/Tarina (Spy).md",
-      "NPCs/Thavius Kreeg.md",
-      "NPCs/Ulder Ravenguard.md",
-      "NPCs/Vendetta Cress.md"
-    ],
-    "NPCs/The Dead Three": [
-      "NPCs/The Dead Three/Bane.md",
-      "NPCs/The Dead Three/Bhaal.md",
-      "NPCs/The Dead Three/Myrkul.md"
-    ],
-    "NPCs/Vanthampurs": [
-      "NPCs/Vanthampurs/Amrik Vanthampur.md",
-      "NPCs/Vanthampurs/Mortlock Vanthampur.md",
-      "NPCs/Vanthampurs/Thalamra Vanthampur.md",
-      "NPCs/Vanthampurs/Thurstwell Vanthampur.md"
+      "Dalelands",
+      "Descent into Avernus",
+      "World",
+      "Images",
+      "netlify.toml"
     ],
     "Images": [
       "Images/Locations",
@@ -122,16 +51,196 @@
       "Images/Statblocks/Bandit.png",
       "Images/Statblocks/Captain Sesprin.png"
     ],
-    "Umbra Contundens": [
-      "Umbra Contundens/Zaleria Grimwood - Hannah.md",
-      "Umbra Contundens/The Caravan.md",
-      "Umbra Contundens/==Umbra Contundens==.md",
-      "Umbra Contundens/==Umbra Contundens== Inventory.md",
-      "Umbra Contundens/Baktha Tassup - Ryan.md",
-      "Umbra Contundens/Iliran Tilorri - Mike.md",
-      "Umbra Contundens/Ira Ferox - Josh.md",
-      "Umbra Contundens/Salah Secumber - Hal.md",
-      "Umbra Contundens/Thomus - Thomas.md"
+    "Dalelands": [
+      "Dalelands/Dalelands.md",
+      "Dalelands/Campaign Log",
+      "Dalelands/Factions",
+      "Dalelands/Locations",
+      "Dalelands/NPCs",
+      "Dalelands/Party"
+    ],
+    "Dalelands/Campaign Log": [
+      "Dalelands/Campaign Log/Session 1 - To New Beginnings.md"
+    ],
+    "Dalelands/Factions": [
+      "Dalelands/Factions/The Silverstars.md"
+    ],
+    "Dalelands/Locations": [
+      "Dalelands/Locations/Old Skull Inn.md",
+      "Dalelands/Locations/The Broken Tower Bridge.md"
+    ],
+    "Dalelands/NPCs": [
+      "Dalelands/NPCs/Adon Twirtho.md",
+      "Dalelands/NPCs/Offsha Di'aylen.md",
+      "Dalelands/NPCs/Rolf Twirtho.md"
+    ],
+    "Dalelands/Party": [
+      "Dalelands/Party/Brok Digginstone.md",
+      "Dalelands/Party/Havelin Alderhilts.md",
+      "Dalelands/Party/Teager.md",
+      "Dalelands/Party/Warden Morn Ingwood.md"
+    ],
+    "Descent into Avernus": [
+      "Descent into Avernus/Descent into Avernus.md",
+      "Descent into Avernus/Items",
+      "Descent into Avernus/Campaign Log",
+      "Descent into Avernus/Factions",
+      "Descent into Avernus/Locations",
+      "Descent into Avernus/NPCs",
+      "Descent into Avernus/Party"
+    ],
+    "Descent into Avernus/Campaign Log": [
+      "Descent into Avernus/Campaign Log/A Bard's Tale.md",
+      "Descent into Avernus/Campaign Log/Campaign Background.md",
+      "Descent into Avernus/Campaign Log/Mission 1 - Kill the Dead Three's Acolytes.md",
+      "Descent into Avernus/Campaign Log/Mission 1b - The Acolyte's Hideout.md",
+      "Descent into Avernus/Campaign Log/Mission 2 - Amrik Vanthampur.md",
+      "Descent into Avernus/Campaign Log/Mission 3 - Ransom Demands.md",
+      "Descent into Avernus/Campaign Log/Mission 4 - Journey to Candlekeep.md",
+      "Descent into Avernus/Campaign Log/Mission 5 - Elturel's Descent.md",
+      "Descent into Avernus/Campaign Log/Mission 6 - Descent Into Avernus.md",
+      "Descent into Avernus/Campaign Log/Mission 7 - Where Demons are Created.md",
+      "Descent into Avernus/Campaign Log/Mission 8 - The Bleeding Citadel.md",
+      "Descent into Avernus/Campaign Log/Mission 9 - Elturel's Ascent.md"
+    ],
+    "Descent into Avernus/Factions": [
+      "Descent into Avernus/Factions/Creed Resolute.md",
+      "Descent into Avernus/Factions/Dead Three.md",
+      "Descent into Avernus/Factions/Hellriders.md",
+      "Descent into Avernus/Factions/Oathoon Family.md",
+      "Descent into Avernus/Factions/The Council of Four.md",
+      "Descent into Avernus/Factions/The Flaming Fist.md",
+      "Descent into Avernus/Factions/The Kenku Killers.md"
+    ],
+    "Descent into Avernus/Items": [
+      "Descent into Avernus/Items/Demon Grinder.md",
+      "Descent into Avernus/Items/Holy Avenger.md",
+      "Descent into Avernus/Items/Shield of the Hidden Lord.md",
+      "Descent into Avernus/Items/Soul Coin.md",
+      "Descent into Avernus/Items/Sword of Zariel.md",
+      "Descent into Avernus/Items/Tastes of Callamshite.md",
+      "Descent into Avernus/Items/The Companion.md"
+    ],
+    "Descent into Avernus/Locations": [
+      "Descent into Avernus/Locations/High Hall.md",
+      "Descent into Avernus/Locations/Vanthampur Villa.md",
+      "Descent into Avernus/Locations/Fort Knucklebone.md",
+      "Descent into Avernus/Locations/Idleglen.md",
+      "Descent into Avernus/Locations/The Bleeding Citadel.md",
+      "Descent into Avernus/Locations/The Wandering Emporium.md",
+      "Descent into Avernus/Locations/Baldur's Gate",
+      "Descent into Avernus/Locations/Infernal Rapture.md"
+    ],
+    "Descent into Avernus/Locations/Baldur's Gate": [
+      "Descent into Avernus/Locations/Baldur's Gate/Elfsong Tavern.md",
+      "Descent into Avernus/Locations/Baldur's Gate/Popper's Provisions.md",
+      "Descent into Avernus/Locations/Baldur's Gate/The Bathhouse.md",
+      "Descent into Avernus/Locations/Baldur's Gate/The Low Lantern.md",
+      "Descent into Avernus/Locations/Baldur's Gate/Uncivil Serpent.md"
+    ],
+    "Descent into Avernus/NPCs": [
+      "Descent into Avernus/NPCs/Abathrax.md",
+      "Descent into Avernus/NPCs/Chucka.md",
+      "Descent into Avernus/NPCs/Clonk.md",
+      "Descent into Avernus/NPCs/Gideon.md",
+      "Descent into Avernus/NPCs/Little One.md",
+      "Descent into Avernus/NPCs/Lorella.md",
+      "Descent into Avernus/NPCs/Perchulux.md",
+      "Descent into Avernus/NPCs/Phyria Jynks.md",
+      "Descent into Avernus/NPCs/Seltern Obranch.md",
+      "Descent into Avernus/NPCs/Slobberchops.md",
+      "Descent into Avernus/NPCs/The Fist of Bane.md",
+      "Descent into Avernus/NPCs/The Iron Consult.md",
+      "Descent into Avernus/NPCs/Trantalox.md",
+      "Descent into Avernus/NPCs/Trevick Fanthorm.md",
+      "Descent into Avernus/NPCs/Yenego.md",
+      "Descent into Avernus/NPCs/The Caravan",
+      "Descent into Avernus/NPCs/Fallaster Fisk.md",
+      "Descent into Avernus/NPCs/Gargoth.md",
+      "Descent into Avernus/NPCs/Harroman.md",
+      "Descent into Avernus/NPCs/Jander Sunstar.md",
+      "Descent into Avernus/NPCs/Lord Kostchtschie.md",
+      "Descent into Avernus/NPCs/Lulu.md",
+      "Descent into Avernus/NPCs/Mad Maggie.md",
+      "Descent into Avernus/NPCs/Olanthius.md",
+      "Descent into Avernus/NPCs/Satyr Thune.md",
+      "Descent into Avernus/NPCs/Sylvira Satticus.md",
+      "Descent into Avernus/NPCs/Traxicore.md",
+      "Descent into Avernus/NPCs/Yale.md",
+      "Descent into Avernus/NPCs/Zariel.md",
+      "Descent into Avernus/NPCs/The Dead Three",
+      "Descent into Avernus/NPCs/Vanthampurs",
+      "Descent into Avernus/NPCs/Commander Liara Porter.md",
+      "Descent into Avernus/NPCs/Darmin Zodge (Captain).md",
+      "Descent into Avernus/NPCs/Falten (Barkeep).md",
+      "Descent into Avernus/NPCs/Mahadi The Rakshasa.md",
+      "Descent into Avernus/NPCs/Murosko Sesprin (Captain).md",
+      "Descent into Avernus/NPCs/Oshallah.md",
+      "Descent into Avernus/NPCs/Reya Mantlemorn.md",
+      "Descent into Avernus/NPCs/Tarina (Spy).md",
+      "Descent into Avernus/NPCs/Thavius Kreeg.md",
+      "Descent into Avernus/NPCs/Ulder Ravenguard.md",
+      "Descent into Avernus/NPCs/Vendetta Cress.md"
+    ],
+    "Descent into Avernus/NPCs/The Caravan": [
+      "Descent into Avernus/NPCs/The Caravan/Cartra Boldenstern.md",
+      "Descent into Avernus/NPCs/The Caravan/Harkina Hunt.md",
+      "Descent into Avernus/NPCs/The Caravan/Oren Ragron.md",
+      "Descent into Avernus/NPCs/The Caravan/Pillster Pebblechuck.md",
+      "Descent into Avernus/NPCs/The Caravan/Shora Hevron.md",
+      "Descent into Avernus/NPCs/The Caravan/Stroven Ironfist.md",
+      "Descent into Avernus/NPCs/The Caravan/Valkora Ashenwell.md"
+    ],
+    "Descent into Avernus/NPCs/The Dead Three": [
+      "Descent into Avernus/NPCs/The Dead Three/Bane.md",
+      "Descent into Avernus/NPCs/The Dead Three/Bhaal.md",
+      "Descent into Avernus/NPCs/The Dead Three/Myrkul.md"
+    ],
+    "Descent into Avernus/NPCs/Vanthampurs": [
+      "Descent into Avernus/NPCs/Vanthampurs/Amrik Vanthampur.md",
+      "Descent into Avernus/NPCs/Vanthampurs/Mortlock Vanthampur.md",
+      "Descent into Avernus/NPCs/Vanthampurs/Thalamra Vanthampur.md",
+      "Descent into Avernus/NPCs/Vanthampurs/Thurstwell Vanthampur.md"
+    ],
+    "Descent into Avernus/Party": [
+      "Descent into Avernus/Party/==Umbra Contundens==.md",
+      "Descent into Avernus/Party/==Umbra Contundens== Inventory.md",
+      "Descent into Avernus/Party/Baktha Tassup - Ryan.md",
+      "Descent into Avernus/Party/Iliran Tilorri - Mike.md",
+      "Descent into Avernus/Party/Ira Ferox - Josh.md",
+      "Descent into Avernus/Party/Salah Secumber - Hal.md",
+      "Descent into Avernus/Party/The Caravan.md",
+      "Descent into Avernus/Party/Thomus - Thomas.md",
+      "Descent into Avernus/Party/Zaleria Grimwood - Hannah.md"
+    ],
+    "World": [
+      "World/Rules",
+      "World/Gods",
+      "World/Places",
+      "World/Planes"
+    ],
+    "World/Gods": [
+      "World/Gods/Shar.md",
+      "World/Gods/Baphomet.md",
+      "World/Gods/Moraden.md",
+      "World/Gods/Selûne.md",
+      "World/Gods/Torm.md"
+    ],
+    "World/Places": [
+      "World/Places/Tantras.md",
+      "World/Places/Cormanthor.md",
+      "World/Places/Deepingdale.md",
+      "World/Places/Shadowdale.md",
+      "World/Places/Candlekeep.md",
+      "World/Places/Baldur's Gate.md",
+      "World/Places/Elturel.md",
+      "World/Places/Elturgard.md"
+    ],
+    "World/Planes": [
+      "World/Planes/Avernus.md"
+    ],
+    "World/Rules": [
+      "World/Rules/Sacred Flame.md"
     ]
   },
   "draggingEnabled": true,

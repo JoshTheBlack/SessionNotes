@@ -6,16 +6,16 @@ command = "rm -rf __obsidian __site && git clone https://github.com/rockmanvnx6/
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Go to notes"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Campaign Notes"
+LANDING_DESCRIPTION = "Campaign notes: Descent into Avernus and the Dalelands"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "README"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Ira's Diary"
+LANDING_TITLE = "The Adventure Journals"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/JoshTheBlack/SessionNotes/"
 # (Optional) Site title in navbar
-SITE_TITLE = "Ira Ferox's Notes"
+SITE_TITLE = "Adventure Journals"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
