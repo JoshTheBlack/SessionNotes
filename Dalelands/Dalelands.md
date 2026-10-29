@@ -22,4 +22,7 @@ A new campaign set in the Dalelands, right after the events of [[Descent into Av
 ## Places and Powers
 [[Shadowdale]] · [[Deepingdale]] · [[Cormanthor]] · [[Tantras]] · [[Torm]] · [[Selûne]] · [[The Silverstars]]
 
+> [!info]- Party gear
+> The shared loot is tracked in the [[Dalelands Party Inventory]].
+
 #campaign

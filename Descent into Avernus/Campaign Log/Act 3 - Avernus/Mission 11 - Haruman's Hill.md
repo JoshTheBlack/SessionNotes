@@ -25,7 +25,7 @@ We follow the trees to a narrow land bridge over the river. The largest tree hol
 When I come to, [[Haruman]] is dead on the ground in front of me. [[Baktha Tassup - Ryan|Baktha]] is still down, a swarm of stirges is closing in, and [[Lulu]] is gone, grappled by a hellwasp and carried west. We handle the stirges and lick our wounds. On the nightmare we find infernal tack, which looks very valuable.
 
 ## The Wasp Nest
-West, a giant wasp nest floats in the sky, tethered to the land by iron chains. The map warns me off, lest my flesh become wasp food. Beneath the nest hangs a congealed mass of sticky organic matter. "I'm detecting something magical in there," says [[Baktha Tassup - Ryan|Baktha]], who pulls off his boots and waddles through the goop, coming back with a **Storm Shortsword**.
+West, a giant wasp nest floats in the sky, tethered to the land by iron chains. The map warns me off, lest my flesh become wasp food. Beneath the nest hangs a congealed mass of sticky organic matter. "I'm detecting something magical in there," says [[Baktha Tassup - Ryan|Baktha]], who pulls off his boots and waddles through the goop, coming back with a **[[Storm Shortsword]]**.
 
 We fail to climb the chains, so [[Iliran Tilorri - Mike|Mike]] misty steps into the nest and keeps us updated via [[Lulu]]. A few levels up he finds her stuck in the goo-coated walls. He gets briefly distracted discovering a **helm of telepathy** and pockets it quietly. Then he tries to free her with a plan that was not a good plan. He tugs on her a few times and attracts hell wasps. He thunderwaves them as they come to inspect, which drops his invisibility briefly, and the blast loosens [[Lulu]] enough for her to wriggle free. The wasps recover and slash at her, nearly killing her.
 

@@ -48,6 +48,8 @@ Organized by the chapters of the book.
 [[Baldur's Gate]] · [[Elturel]] · [[Elturgard]] · [[Candlekeep]] · [[Avernus]] · [[Fort Knucklebone]] · [[The Wandering Emporium]] · [[The Bleeding Citadel]] · [[High Hall]] · [[Vanthampur Villa]]
 
 ## Items
-[[Shield of the Hidden Lord]] · [[Holy Avenger]] · [[Sword of Zariel]] · [[The Companion]] · [[Soul Coin]] · [[Demon Grinder]]
+[[Shield of the Hidden Lord]] · [[Holy Avenger]] · [[Sword of Zariel]] · [[The Companion]] · [[Soul Coin]] · [[Demon Grinder]] · [[Infernal Puzzle Box]] · [[Infernal Tack]] · [[Matalotok]] · [[Thunder Shortsword]] · [[Storm Shortsword]]
+
+Minor magic items (shared with other campaigns): [[Ring of Invisibility]] · [[Bracers of Defense]] · [[Helm of Telepathy]] · [[Circlet of Blasting]] · [[Potion of Flying]] · [[Potion of Fire Breath]] · [[Potion of Frost Giant Strength]]
 
 #campaign

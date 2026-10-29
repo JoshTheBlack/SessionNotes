@@ -96,6 +96,7 @@
       "Dalelands/NPCs/Rolf Twirtho.md"
     ],
     "Dalelands/Party": [
+      "Dalelands/Party/Dalelands Party Inventory.md",
       "Dalelands/Party/Brok Digginstone.md",
       "Dalelands/Party/Havelin Alderhilts.md",
       "Dalelands/Party/Teager.md",
@@ -155,6 +156,11 @@
       "Descent into Avernus/Factions/The Kenku Killers.md"
     ],
     "Descent into Avernus/Items": [
+      "Descent into Avernus/Items/Storm Shortsword.md",
+      "Descent into Avernus/Items/Infernal Puzzle Box.md",
+      "Descent into Avernus/Items/Infernal Tack.md",
+      "Descent into Avernus/Items/Matalotok.md",
+      "Descent into Avernus/Items/Thunder Shortsword.md",
       "Descent into Avernus/Items/Demon Grinder.md",
       "Descent into Avernus/Items/Holy Avenger.md",
       "Descent into Avernus/Items/Shield of the Hidden Lord.md",
@@ -182,6 +188,10 @@
       "Descent into Avernus/Locations/Baldur's Gate/Uncivil Serpent.md"
     ],
     "Descent into Avernus/NPCs": [
+      "Descent into Avernus/NPCs/Laraelra Thundreth.md",
+      "Descent into Avernus/NPCs/Alan Alyth.md",
+      "Descent into Avernus/NPCs/Oshalla.md",
+      "Descent into Avernus/NPCs/Vendetta Kress.md",
       "Descent into Avernus/NPCs/Alazub.md",
       "Descent into Avernus/NPCs/Crokek'toeck.md",
       "Descent into Avernus/NPCs/Haruman.md",
@@ -223,11 +233,9 @@
       "Descent into Avernus/NPCs/Darmin Zodge (Captain).md",
       "Descent into Avernus/NPCs/Falten (Barkeep).md",
       "Descent into Avernus/NPCs/Mahadi The Rakshasa.md",
-      "Descent into Avernus/NPCs/Oshallah.md",
       "Descent into Avernus/NPCs/Reya Mantlemorn.md",
       "Descent into Avernus/NPCs/Tarina (Spy).md",
-      "Descent into Avernus/NPCs/Thavius Kreeg.md",
-      "Descent into Avernus/NPCs/Vendetta Cress.md"
+      "Descent into Avernus/NPCs/Thavius Kreeg.md"
     ],
     "Descent into Avernus/NPCs/The Caravan": [
       "Descent into Avernus/NPCs/The Caravan/Cartra Boldenstern.md",
@@ -261,6 +269,7 @@
       "Descent into Avernus/Party/Zaleria Grimwood - Hannah.md"
     ],
     "World": [
+      "World/Items",
       "World/Rules",
       "World/Gods",
       "World/Places",
@@ -273,7 +282,19 @@
       "World/Gods/Selûne.md",
       "World/Gods/Torm.md"
     ],
+    "World/Items": [
+      "World/Items/Bracers of Defense.md",
+      "World/Items/Circlet of Blasting.md",
+      "World/Items/Helm of Telepathy.md",
+      "World/Items/Potion of Climbing.md",
+      "World/Items/Potion of Fire Breath.md",
+      "World/Items/Potion of Flying.md",
+      "World/Items/Potion of Frost Giant Strength.md",
+      "World/Items/Ring of Invisibility.md",
+      "World/Items/Scroll of See Invisibility.md"
+    ],
     "World/Places": [
+      "World/Places/Highmoon.md",
       "World/Places/Tantras.md",
       "World/Places/Cormanthor.md",
       "World/Places/Deepingdale.md",

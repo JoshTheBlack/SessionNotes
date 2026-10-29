@@ -1,6 +1,6 @@
 ### Wood Elf Twilight Cleric of Selûne
 
-*Played by Josh.* The Warden of the Deep Woods, born in Highmoon and raised by the [[Cormanthor]]. A solitary ranger for decades until a blizzard and a moonbeam made him a cleric of [[Selûne]]. He's a hundred and fifteen, bright green eyes, dark brown hair tied in a working knot, and a coppery, leathered look. Nocturnal by nature: given the choice he'll sleep on the roof of an inn rather than under it.
+*Played by Josh.* The Warden of the Deep Woods, born in [[Highmoon]] and raised by the [[Cormanthor]]. A solitary ranger for decades until a blizzard and a moonbeam made him a cleric of [[Selûne]]. He's a hundred and fifteen, bright green eyes, dark brown hair tied in a working knot, and a coppery, leathered look. Nocturnal by nature: given the choice he'll sleep on the roof of an inn rather than under it.
 
 He carries a chunk of pale quartz that glows with soft silver light when the moon is hidden. When on watch, he twists and reassembles a layered wooden puzzle.
 

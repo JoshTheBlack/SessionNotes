@@ -15,7 +15,7 @@
 	- **Golden Signet Ring:** Engraved with "Stone Hearts Never Bleed" (Value unknown, found in bone jewelry box)     
 	- **Azurite Gemstones (20):** 10 GP each (**200 GP Total**)
 - **Valuable Objects:**     
-	- **Gold Stoppers (2):** From Potion of Fire Breath, 25 GP each (**50 GP Total**)     
+	- **Gold Stoppers (2):** From [[Potion of Fire Breath]], 25 GP each (**50 GP Total**)     
 	- **Wooden Box:** Inlaid with electrum filigree (**75 GP**)     
 	- **Hairbrush:** **100 GP**     
 	- **Perfumes (6 bottles):** 20 GP each (**120 GP Total**)
@@ -44,7 +44,7 @@
 	- **Wand of Secrets:** Can be used 3 times per day (recharges at dawn) to reveal secret doors, traps, and other hidden features in a 30-foot radius.
 - **Potions:**     
 	- **Potions of Healing (2):** Restores hit points. (Note how many hit points they restore if known)     
-	- **Potion of Frost Giant Strength:** Increases your Strength score to 23 for one hour.
+	- **[[Potion of Frost Giant Strength]]:** Increases your Strength score to 23 for one hour.
 - **Cursed Items:**     
 	- **Necromancer Flail (+1, Cursed):** A magical flail with a +1 bonus to attack and damage rolls, but also carries a curse.
     
@@ -95,8 +95,8 @@ ______________
 	- Feonor: Archmage appearing as a human
 	- Princepts Covik: Chain devil
 	- (Ally) Smiler the Defiler: Fey wild
-- Circlet of Blasting
-- Infernal Tack (requires evil alignment, trade for soul coins)
+- [[Circlet of Blasting]]
+- [[Infernal Tack]] (requires evil alignment, trade for soul coins)
 - Flask of water from the river styx
 - DIamond (5000gp)
 - +1 Glaive

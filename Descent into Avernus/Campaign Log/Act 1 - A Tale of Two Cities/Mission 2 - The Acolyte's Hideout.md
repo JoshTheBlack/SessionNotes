@@ -58,7 +58,7 @@ Down a long hallway of side corridors, some collapsed. In one, [[Baktha Tassup -
 
 [[Salah Secumber - Hal|Salah]] sends a skeleton to unbar another door, and six zombies lunge out. [[Salah Secumber - Hal|Salah]] flees into a room smeared with blood, two flayed bodies shackled to the wall, a cat-o'-nine-tails and a bucket of salt on the floor. I cleave a zombie in two and we form a killbox in the hallway. They come at us one by one and meet bludgeoning, slicing and searing.
 
-In the torture chamber, [[Salah Secumber - Hal|Salah]] finds a dying Tiefling, [[Vendetta Cress]], and heals her for 8 hit points. She distributes wine for the [[Oathoon Family]]'s establishments, was tortured senseless, and can tell us nothing. We rest in a cleared room, then walk her back to the street. Then back down.
+In the torture chamber, [[Salah Secumber - Hal|Salah]] finds a dying Tiefling, [[Vendetta Kress]], and heals her for 8 hit points. She distributes wine for the [[Oathoon Family]]'s establishments, was tortured senseless, and can tell us nothing. We rest in a cleared room, then walk her back to the street. Then back down.
 
 ## The Lower Depths
 Past the torture chamber, stairs descend to a fork: one door south, two east. Behind the second eastern door, four armored men are asleep. I slip in and open one throat. Then the next, and my armor clanks. The other three wake. I gut a second and we finish the rest.
@@ -75,7 +75,7 @@ At the end, atop a heap of corpses, a scarred giant with a club fights a shirtle
 
 We chase the skull-headed leader into a hall of colossal wooden statues of the Dead Three. He's good. He drops [[Baktha Tassup - Ryan|Baktha]]. [[Salah Secumber - Hal|Salah]] lands a guiding bolt and we finish him in a nasty exchange. We pick the compound clean for a modest haul of coin, gems and jewelry.
 
-Out on the street we meet Tiamat's cultists. Their leader, Ultus, proclaims our doom. We cut through them like soup. Then it's back to the *[[Uncivil Serpent]]* to sleep.
+Out on the street we meet Tiamat's cultists. Their leader, Ultiss, proclaims our doom. We cut through them like soup. Then it's back to the *[[Uncivil Serpent]]* to sleep.
 
 ## Loose Ends
 We trade loot for coin with every merchant who'll deal, then report to [[Darmin Zodge (Captain)]]. He's grim but satisfied and gives us our next job: kill [[Amrik Vanthampur]]. The Vanthampur web runs deep, and someone has to start cutting threads.

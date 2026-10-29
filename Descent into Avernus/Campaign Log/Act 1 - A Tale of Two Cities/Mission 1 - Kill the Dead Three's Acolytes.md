@@ -16,7 +16,7 @@ The whole room is buzzing about who will be the next Grand Duke. [[Thalamra Vant
 
 She looks *relieved* when we ask about the [[Dead Three]]. Information will cost us, though. She robbed her former crewmates aboard the *[[Uncivil Serpent]]*, and her comeuppance is on its way. She needs bodyguards.
 
-Fine. A trap, then. We rent a room above the bay window, next to the biggest suite in the house, where [[Oshallah]] is staying.
+Fine. A trap, then. We rent a room above the bay window, next to the biggest suite in the house, where [[Oshalla]] is staying.
 
 That night the tavern's famous ghostly elven song floats through the rafters, but the words are wrong. Not a love ballad. A lament for [[Elturel]].
 

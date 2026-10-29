@@ -2,7 +2,7 @@
 > Find [[Adon Twirtho]] for his brother [[Rolf Twirtho]] (50 gp), and, under [[Offsha Di'aylen]], learn why the priests of [[Torm]] are vanishing.
 
 ## The Moon's Choosing
-I am Morn, of the Ingwood clan, but the locals just call me [[Warden Morn Ingwood]]. I was born in Highmoon, the bustling capital of [[Deepingdale]], but the noisy trade town never felt like home. As a Wood Elf, I felt the pull of the ancient [[Cormanthor]] timberlands that border the Dale. For decades I lived as a solitary ranger, hunting unnatural predators and guiding lost travelers back to the safety of the civilized roads. I was a survivalist, perfectly content in the shadowed isolation of the deep woods.
+I am Morn, of the Ingwood clan, but the locals just call me [[Warden Morn Ingwood]]. I was born in [[Highmoon]], the bustling capital of [[Deepingdale]], but the noisy trade town never felt like home. As a Wood Elf, I felt the pull of the ancient [[Cormanthor]] timberlands that border the Dale. For decades I lived as a solitary ranger, hunting unnatural predators and guiding lost travelers back to the safety of the civilized roads. I was a survivalist, perfectly content in the shadowed isolation of the deep woods.
 
 Everything changed during a brutal, unnatural winter storm. I was tracking a pack of shadow-touched wolves when the blizzard blinded me. Freezing, disoriented, and surrounded by the howling pack, I prepared for the end. In that pitch-black moment I prayed not for rescue, but for the light to see my enemies.
 
