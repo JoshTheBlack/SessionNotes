@@ -60,10 +60,10 @@
 ## IV. Key Items & Miscellaneous
 
 - **Keys:**     
-	- **Dock Ticket for the Uncivil Serpent:** Allows passage or access to the Uncivil Serpent       
+	- **Dock Ticket for the [[Uncivil Serpent]]:** Allows passage or access to the Uncivil Serpent       
 	- **Key Bound in Hair & Lock Bound with Hair:** The key unlocks the lock, which secures the necromancer's spellbook. Also unlocked treasure chests containing Tiamat's cultists treasure.     
-	- **Keys (4):** Vanthampur Villa (2 existing + 2 new from Thurstwell's corpse).     
-	- **Key (1):** Thurstwell's, to an iron chest.
+	- **Keys (4):** [[Vanthampur Villa]] (2 existing + 2 new from [[Thurstwell Vanthampur|Thurstwell]]'s corpse).     
+	- **Key (1):** [[Thurstwell Vanthampur|Thurstwell]]'s, to an iron chest.
 - **Clothing & Attire:**     
 	- **Robes (10):** (4 existing + 6 new)     
 	- **Masks (6):**
@@ -90,7 +90,7 @@ ______________
 - scroll of remove curse
 - Gideons Testament
 - 16 soul coins
-- Pad of notes about warlords of Avernus
+- Pad of notes about warlords of [[Avernus]]
 	- Bitterbreath: Former pit fiend reduced to horned devil
 	- Feonor: Archmage appearing as a human
 	- Princepts Covik: Chain devil

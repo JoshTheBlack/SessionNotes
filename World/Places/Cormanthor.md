@@ -1,3 +1,5 @@
+![[Cormanthor.jpg|500]]
+
 The ancient elven forest of [[Warden Morn Ingwood]]'s youth. The shadows in it are growing bolder.
 
 > [!info]- Lore

@@ -1,3 +1,5 @@
+![[Deepingdale.png|500]]
+
 Home dale of [[Warden Morn Ingwood]], on the edge of [[Cormanthor]]. The capital is Highmoon.
 
 > [!info]- Lore

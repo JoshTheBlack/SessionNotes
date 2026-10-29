@@ -1,7 +1,7 @@
 > [!quote] Ira Ferox's Diary
 > *If you're reading this, you either found my notes or you stole them. Either way, don't tell the Fist.*
 
-We are on the Sword Coast, in Baldur's Gate. (The Mos Eisley of the Sword Coast, a seaside town scourged by vipers and villains.)
+We are on the Sword Coast, in [[Baldur's Gate]]. (The Mos Eisley of the Sword Coast, a seaside town scourged by vipers and villains.)
 
 #### A Dark Secret
 The entire party shares a dark secret.  A decade ago, we schemed together to steal a nights worth of earnings from [[The Low Lantern]], the proprietor of which has contracted a gang of [[The Kenku Killers]] that still haunts our trails and our nightmares a decade later.

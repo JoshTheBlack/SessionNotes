@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descent into Avernus/NPCs/Falten (Barkeep).md",
+                "file": "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities/Mission 1 - Kill the Dead Three's Acolytes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Falten (Barkeep)"
+              "title": "Mission 1 - Kill the Dead Three's Acolytes"
             }
           }
         ],
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descent into Avernus/NPCs/Falten (Barkeep).md",
+                "file": "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities/Mission 1 - Kill the Dead Three's Acolytes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,13 +267,24 @@
   },
   "active": "16d36065efee523f",
   "lastOpenFiles": [
+    "Images/NPCs/Myrkul.jpg",
+    "Images/NPCs/Bhaal.jpg",
+    "Images/NPCs/Bane.jpg",
+    "Images/NPCs/Baphomet.png",
+    "Images/NPCs/Shar.png",
+    "Images/NPCs/Selune.jpg",
+    "Images/NPCs/Torm.jpg",
+    "Images/Locations/Tantras crest.png",
+    "Images/Locations/Shadowdale crest.png",
+    "Images/Locations/Deepingdale.png",
+    "Images/Locations/Cormanthor.jpg",
+    "Descent into Avernus/NPCs/Falten (Barkeep).md",
     "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities/Mission 1 - Kill the Dead Three's Acolytes.md",
     "Descent into Avernus/NPCs/Jhessa Brightstar.md",
     "Descent into Avernus/NPCs/Crokek'toeck.md",
     "Descent into Avernus/NPCs/Alazub.md",
     "Descent into Avernus/Locations/Crypt of the Hellriders.md",
     "Descent into Avernus/NPCs/Mordenkainen.md",
-    "Images/Statblocks/Captain Sessprin.png",
     "Descent into Avernus/NPCs/Yeenoghu.md",
     "Descent into Avernus/NPCs/Yael.md",
     "Descent into Avernus/NPCs/Ulder Ravengard.md",
@@ -292,8 +303,6 @@
     "Descent into Avernus/Locations/Idyllglen.md",
     "Descent into Avernus/Campaign Log/Act 4 - Sword of Zariel/Mission 15 - Idyllglen.md",
     "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 13 - Kostchtchie's Maw.md",
-    "Descent into Avernus/Campaign Log/Act 3 - Avernus/Mission 11 - Haruman's Hill.md",
-    "Descent into Avernus/Campaign Log/Mission 9 - Elturel's Ascent.md",
     "Descent into Avernus/Campaign Log/Act 5 - Escape from Avernus",
     "Descent into Avernus/Campaign Log/Act 4 - Sword of Zariel",
     "Descent into Avernus/Campaign Log/Act 3 - Avernus",
@@ -303,16 +312,7 @@
     "Dalelands/Campaign Log/Session 1 - To New Beginnings.md.tmp.26648.a026d490a4ab",
     "Descent into Avernus/NPCs/The Caravan",
     "Descent into Avernus/Items",
-    "Images/vanthampurevillabasement.webp",
-    "Images/uncivilserpent.png",
-    "Images/Ira Ferox screenshot.png",
-    "Images/campaign.jpg",
-    "Images/Locations/ElfsongTavern/Elfsong_beholder.webp",
     "Untitled.base",
-    "Images/Spatchcock-Chicken-09.jpg",
-    "Images/NPCs/mortlock.jpg",
-    "Images/Locations/Elturel_labeled.png",
-    "Images/Locations/baldursgate.jpg",
     "Untitled.canvas",
     "Campaign Log/Untitled.canvas"
   ]

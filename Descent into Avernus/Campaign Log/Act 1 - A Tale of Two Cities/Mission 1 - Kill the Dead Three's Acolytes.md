@@ -5,14 +5,14 @@
 ## Background
 [[Baldur's Gate]] has been crawling with [[Dead Three]] fanatics for years. The Fist can't be bothered to scrape them out themselves, so naturally the job lands on us. Kill the acolytes, kill anyone who gets in the way, and don't lose sleep over the mess.
 
-Zodge points us at [[Tarina (Spy)]], who drinks at the [[Elfsong Tavern]] and knows where the rats nest. His advice: be nice to her, she has dangerous friends. I'm always nice. To people with dangerous friends.
+[[Darmin Zodge (Captain)|Zodge]] points us at [[Tarina (Spy)]], who drinks at the [[Elfsong Tavern]] and knows where the rats nest. His advice: be nice to her, she has dangerous friends. I'm always nice. To people with dangerous friends.
 
 ## Reconnaissance
 We walk into the tavern and take a table near the bar. There's an empty suit of armor standing in the corner, listening. Nobody seems bothered by it, so neither am I.
 
 The whole room is buzzing about who will be the next Grand Duke. [[Thalamra Vanthampur]] is the name on every lip. Born in the sewers, vicious as a cornered rat, and one of the four dukes on the [[The Council of Four]]. Politicians. Of course.
 
-[[Falten (Barkeep)]] takes our order. When [[Salah Secumber - Hal]] asks after [[Tarina (Spy)]], Falten goes a little pale, grabs our drinks, and tells us she's upstairs in the loft playing Baldur's Bones.
+[[Falten (Barkeep)]] takes our order. When [[Salah Secumber - Hal]] asks after [[Tarina (Spy)]], [[Falten (Barkeep)|Falten]] goes a little pale, grabs our drinks, and tells us she's upstairs in the loft playing Baldur's Bones.
 
 She looks *relieved* when we ask about the [[Dead Three]]. Information will cost us, though. She robbed her former crewmates aboard the *[[Uncivil Serpent]]*, and her comeuppance is on its way. She needs bodyguards.
 
@@ -41,7 +41,7 @@ That night the tavern's famous ghostly elven song floats through the rafters, bu
 >
 > *O sing a song of [[Elturel]]*
 > *And when the night does fall*
-> *Sleep safe beneath Companion's light*
+> *Sleep safe beneath [[The Companion|Companion]]'s light*
 > *Until the dawn does call.*
 > *We're bound by mortal covenant*
 > *That only ends with death*
@@ -61,7 +61,7 @@ Shouting downstairs. We steel ourselves.
 
 He kicks the door in and walks straight into our trap. For a beat, he just stands there, stunned.
 
-[[Baktha Tassup - Ryan]] draws first blood, flattening one goon with a single blow. [[Iliran Tilorri - Mike]] takes the second, and the rest of Sessprin's crew drop their weapons and *run*. Sessprin himself doesn't last long. Cowards and captains: the same thing, in the end.
+[[Baktha Tassup - Ryan]] draws first blood, flattening one goon with a single blow. [[Iliran Tilorri - Mike]] takes the second, and the rest of [[Murosko Sessprin (Captain)|Sessprin]]'s crew drop their weapons and *run*. [[Murosko Sessprin (Captain)|Sessprin]] himself doesn't last long. Cowards and captains: the same thing, in the end.
 
 ## The Aftermath
 [[Thomus - Thomas]] took a nasty blow and went down, so we spend a while patching him up and wrapping the rest of our scrapes.

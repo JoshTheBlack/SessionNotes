@@ -7,6 +7,6 @@
 [[Pillster Pebblechuck]] - Halfling baker, with family
 [[Shora Hevron]] - Small female child
 [[Seltern Obranch]] - Druid
-[[Trevick Fanthorm]] - Human Guard of Torm
+[[Trevick Fanthorm]] - Human Guard of [[Torm]]
 
 

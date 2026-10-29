@@ -1,3 +1,5 @@
+![[Shadowdale crest.png|160]]
+
 A town in the Dalelands, where [[Warden Morn Ingwood]] gathered the party at the [[Old Skull Inn]].
 
 > [!info]- Lore

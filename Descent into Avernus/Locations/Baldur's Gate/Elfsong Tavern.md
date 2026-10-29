@@ -12,4 +12,4 @@ So named because of a ghostly spirit that occasionally sings a love ballad in el
 #location
 
 > [!info]- Lore
-> A famous Baldur's Gate tavern whose ghostly elven song and floating-beholder sign draw regulars. In the module, the Elfsong is where the characters meet Tarina and are pointed toward the Dead Three.
+> A famous [[Baldur's Gate]] tavern whose ghostly elven song and floating-beholder sign draw regulars. In the module, the Elfsong is where the characters meet [[Tarina (Spy)|Tarina]] and are pointed toward the [[Dead Three]].

@@ -3,6 +3,6 @@ The Vanthampur family estate in the Upper City of [[Baldur's Gate]]: gilded hall
 ![[vanthampurevillabasement.webp]]
 
 > [!info]- Lore
-> The Vanthampurs' stolen [[Shield of the Hidden Lord]] and the contract binding Elturel's fate both pass through this house.
+> The Vanthampurs' stolen [[Shield of the Hidden Lord]] and the contract binding [[Elturel]]'s fate both pass through this house.
 
 #location #baldursgate

@@ -8,16 +8,16 @@ Everything changed during a brutal, unnatural winter storm. I was tracking a pac
 
 The storm parted just enough to reveal the full moon. A blinding beam of silver light pierced the canopy, illuminated a safe, sheltered grove, and seared the shadows away. A surge of heavy, protective twilight magic awoke in my blood. I survived the night and have served [[Selûne]], the Moonmaiden, ever since. I am no longer just a tracker. I am the Warden of the Deep Woods, sworn to be the light that guides the innocent and blinds the wicked.
 
-The shadows in the forest are growing bolder, and Selûne has granted me a vision: I cannot fight this encroaching darkness alone. I have left my patrol route to find the specific souls I saw in the moonlight. That search has brought me, reluctantly, under a roof, in the town of [[Shadowdale]], at the [[Old Skull Inn]].
+The shadows in the forest are growing bolder, and [[Selûne]] has granted me a vision: I cannot fight this encroaching darkness alone. I have left my patrol route to find the specific souls I saw in the moonlight. That search has brought me, reluctantly, under a roof, in the town of [[Shadowdale]], at the [[Old Skull Inn]].
 
 ## The Knight at the Bar
 A knightly man in plate mail strides up to a halfling worker at the bar and introduces himself as [[Offsha Di'aylen]]. He has been in [[Elturel]], and [[Torm]] has charged him with a mission to return to [[Tantras]]. He needs adventurers to join his quest.
 
-Looking around the room, I see the three people from my vision, scattered about the bar. As destiny would have it, all three of them sign up. So do I. Offsha buys us a round of drinks and tells us what he can.
+Looking around the room, I see the three people from my vision, scattered about the bar. As destiny would have it, all three of them sign up. So do I. [[Offsha Di'aylen|Offsha]] buys us a round of drinks and tells us what he can.
 
-Powerful priests of Torm are disappearing, vanishing into thin air. It seems to affect only worshippers of Torm. He needs to find out what is happening to them and why.
+Powerful priests of [[Torm]] are disappearing, vanishing into thin air. It seems to affect only worshippers of [[Torm]]. He needs to find out what is happening to them and why.
 
-He is from Flan, part of a minor noble family. They had no designs on him following the path of righteousness, but he chose it over the family business out of deep devotion to Torm. A man who gave up comfort for conviction. I can respect that.
+He is from Flan, part of a minor noble family. They had no designs on him following the path of righteousness, but he chose it over the family business out of deep devotion to [[Torm]]. A man who gave up comfort for conviction. I can respect that.
 
 A man named [[Rolf Twirtho]] approaches and asks for help finding his brother, [[Adon Twirtho]]. He offers 50 gp for our trouble. We oblige.
 
@@ -33,7 +33,7 @@ The tower walls have huge cracks, large enough to walk through. Three men sit in
 
 I start casting one of my cantrips, Druidcraft, and snuff their torches out one by one. On the third, they notice. I use Thaumaturgy to make the ground tremble, and they look up.
 
-[[Teager]] casts a firebolt at one, and I finish him off with [[Sacred Flame]]. [[Havelin Alderhilts]] and [[Brok Digginstone]] step inside and press the attack. I hit another with Sacred Flame. Havelin and Teager finish the last two.
+[[Teager]] casts a firebolt at one, and I finish him off with [[Sacred Flame]]. [[Havelin Alderhilts]] and [[Brok Digginstone]] step inside and press the attack. I hit another with Sacred Flame. [[Havelin Alderhilts|Havelin]] and [[Teager]] finish the last two.
 
 ## Below the Creek
 We quickly scout this floor. When we find a staircase down, I tell the crew to watch my six and slip down the stairs.

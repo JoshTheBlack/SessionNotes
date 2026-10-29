@@ -1,4 +1,4 @@
- The governing body of the city of Baldur's Gate consisting of four patriars (local nobles), known as Dukes, elected for life.
+ The governing body of the city of [[Baldur's Gate]] consisting of four patriars (local nobles), known as Dukes, elected for life.
 
 - Grand Duke [[Ulder Ravengard]]
 - Duke [[Thalamra Vanthampur]], vying for the Grand Duke spot now that [[Ulder Ravengard]] is missing.

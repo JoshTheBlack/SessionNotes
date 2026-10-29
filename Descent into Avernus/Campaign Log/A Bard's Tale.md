@@ -1,27 +1,27 @@
-In Baldur's Gate, where shadows sleep,
+In [[Baldur's Gate]], where shadows sleep,
 A tale of theft, a secret deep.
 Five rogues hoard of ill-got gain,
 Treasure from the Lantern's flame..
 
-The Kenku Killers, on their trail,
+[[The Kenku Killers]], on their trail,
 Sought vengeance, but their efforts failed.
-The Flaming Fist, with iron might,
+[[The Flaming Fist]], with iron might,
 Sought justice, sending rogues to flight.
 
 As years did pass, the heat died down,
 Til fate's shadow befell the town.
-Elturel fell, a smoking pit,
+[[Elturel]] fell, a smoking pit,
 And Baldur's Gate, in fear did sit.
 
-The Dead Three's cult, a lurking threat,
+The [[Dead Three]]'s cult, a lurking threat,
 Their acolytes, we must beset.
-In Elfsong Tavern, whispers rise,
+In [[Elfsong Tavern]], whispers rise,
 Of hidden foes, and dark allies.
 
 From pirates bold and vengeance dire,
 With cutthroats fierce, her life the pyre.
 A trap is set, a fight ensues,
-Tarina lives, our strength renews.
+[[Tarina (Spy)|Tarina]] lives, our strength renews.
 
 The bathhouse beckons, fair yet fell,
 Where evil lurks, in hidden hell.
@@ -50,7 +50,7 @@ And bones that speak, of dark desire.
 
 A brazier lit, with emerald smoke, 
 And skeletons rise, as words are spoke.
-In Salah's thrall, these bone men stand,
+In [[Salah Secumber - Hal|Salah]]'s thrall, these bone men stand,
 Obeyance to his stern command.
 
 A searing flash, their senses numbed,
@@ -69,7 +69,7 @@ Though whispers warn of greater strife,
 While shadows loom, and threaten life.
 
 A tortured soul, with secrets lost, 
-Vendetta's plight, a heavy cost. 
+[[Vendetta Cress|Vendetta]]'s plight, a heavy cost. 
 We rest and heal, then venture deep, 
 Where stairs descend, and shadows creep.
 
@@ -81,7 +81,7 @@ We fight and conquer, limb by limb.
 From bloody tomb, a crone appears, 
 With honeyed words, and treacherous sneers. 
 Her true form shows, with wicked might, 
-And Salah falls, in fading light.
+And [[Salah Secumber - Hal|Salah]] falls, in fading light.
 
 Invisibility's veil she weaves, 
 But Ira strikes, with swift reprieves. 
@@ -93,7 +93,7 @@ Through hidden doors, the monsters go.
 In flooded halls, with torches dim, 
 We face the dead, with courage grim.
 
-Mortlock stands, with club in hand, 
+[[Mortlock Vanthampur|Mortlock]] stands, with club in hand, 
 Reveals the plot, to seize the land. 
 The Vanthampurs weave, a web of lies, 
 As Baldur's Gate, before them dies.
@@ -108,7 +108,7 @@ As Tiamat's cult, comes to the fore.
 With blades and spells, we take our stand, 
 And vanquish foes, throughout the land.
 
-The Low Lantern, our next dark quest, 
-Where Amrik waits, with wicked test. 
+[[The Low Lantern]], our next dark quest, 
+Where [[Amrik Vanthampur|Amrik]] waits, with wicked test. 
 With coin and steel, we make our way, 
 To face the dawn, and seize the day.

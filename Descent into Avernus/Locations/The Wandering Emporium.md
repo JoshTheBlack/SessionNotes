@@ -1,4 +1,4 @@
-A traveling market in the Avernus wastes, ringed with demon grinders and run by [[Mahadi The Rakshasa]].
+A traveling market in the [[Avernus]] wastes, ringed with demon grinders and run by [[Mahadi The Rakshasa]].
 
 - [[Infernal Rapture]] is the tavern.
 - Firesnake Forge buys and sells weapons and armor. We sold our spares there for 10 soul coins.
