@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dalelands/Party/Dalelands Party Inventory.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dalelands Party Inventory"
+              "title": "README"
             }
           }
         ],
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dalelands/Party/Dalelands Party Inventory.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,6 +282,7 @@
   },
   "active": "d0c2a39384000bd5",
   "lastOpenFiles": [
+    "Dalelands/Party/Dalelands Party Inventory.md",
     "Dalelands/NPCs/Wendy Rueh.md",
     "Dalelands/NPCs/Mardon Rueh.md",
     "Dalelands/Locations/The Broken Tower Bridge.md",
@@ -302,7 +303,6 @@
     "World/Items/Circlet of Blasting.md",
     "World/Items/Helm of Telepathy.md",
     "World/Items/Bracers of Defense.md",
-    "Dalelands/Party/Dalelands Party Inventory.md",
     "World/Items/Scroll of See Invisibility.md",
     "World/Items/Potion of Climbing.md",
     "Descent into Avernus/Party/==Umbra Contundens== Inventory.md",
