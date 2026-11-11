@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descent into Avernus/Party/==Umbra Contundens== Inventory.md",
+                "file": "World/Planes/Avernus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "==Umbra Contundens== Inventory"
+              "title": "Avernus"
+            }
+          },
+          {
+            "id": "d0c2a39384000bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dalelands/Party/Dalelands Party Inventory.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dalelands Party Inventory"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 200
   },
   "right": {
     "id": "0373d9015a0e4daa",
@@ -185,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Descent into Avernus/Party/==Umbra Contundens== Inventory.md",
+                "file": "Dalelands/Party/Dalelands Party Inventory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,11 +259,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,11 +276,36 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "16d36065efee523f",
+  "active": "d0c2a39384000bd5",
   "lastOpenFiles": [
+    "Dalelands/NPCs/Wendy Rueh.md",
+    "Dalelands/NPCs/Mardon Rueh.md",
+    "Dalelands/Locations/The Broken Tower Bridge.md",
+    "Dalelands/Factions/The Silverstars.md",
+    "Dalelands/Campaign Log/Session 2.md",
+    "Dalelands/NPCs/Offsha Di'aylen.md",
+    "Dalelands/Campaign Log/Session 1 - To New Beginnings.md",
+    "Untitled.base",
+    "Recording 20261110201008.m4a",
+    "World/Planes/Avernus.md",
+    "Recording 20261029151827.m4a",
+    "sedXPtepY",
+    "sedNMEb1p",
+    "World/Places/Shadowdale.md",
+    "World/Places/Deepingdale.md",
+    "World/Gods/Selûne.md",
+    "World/Rules/Sacred Flame.md",
+    "World/Items/Circlet of Blasting.md",
+    "World/Items/Helm of Telepathy.md",
+    "World/Items/Bracers of Defense.md",
+    "Dalelands/Party/Dalelands Party Inventory.md",
+    "World/Items/Scroll of See Invisibility.md",
+    "World/Items/Potion of Climbing.md",
+    "Descent into Avernus/Party/==Umbra Contundens== Inventory.md",
     "Descent into Avernus/NPCs/Laraelra Thundreth.md",
     "Descent into Avernus/Items/Storm Shortsword.md",
     "Descent into Avernus/NPCs/Alan Alyth.md",
@@ -274,26 +313,7 @@
     "Descent into Avernus/Items/Matalotok.md",
     "Descent into Avernus/Items/Infernal Tack.md",
     "Descent into Avernus/Items/Infernal Puzzle Box.md",
-    "World/Places/Highmoon.md",
-    "World/Items/Ring of Invisibility.md",
-    "World/Items/Scroll of See Invisibility.md",
-    "World/Items/Helm of Telepathy.md",
-    "World/Items/Potion of Climbing.md",
-    "World/Items/Potion of Frost Giant Strength.md",
-    "World/Items/Potion of Flying.md",
-    "World/Items/Potion of Fire Breath.md",
-    "World/Items/Circlet of Blasting.md",
-    "World/Items/Bracers of Defense.md",
     "World/Items",
-    "Dalelands/Party/Dalelands Party Inventory.md",
-    "Descent into Avernus/NPCs/Oshalla.md",
-    "Descent into Avernus/NPCs/Vendetta Kress.md",
-    "Descent into Avernus/Campaign Log/A Bard's Tale.md",
-    "Dalelands/Party/Warden Morn Ingwood.md",
-    "Dalelands/Party/Teager.md",
-    "Dalelands/Party/Havelin Alderhilts.md",
-    "Dalelands/Party/Brok Digginstone.md",
-    "Dalelands/NPCs/Rolf Twirtho.md",
     "Images/NPCs/Myrkul.jpg",
     "Images/NPCs/Bhaal.jpg",
     "Images/NPCs/Bane.jpg",
@@ -308,11 +328,6 @@
     "Descent into Avernus/Campaign Log/Act 4 - Sword of Zariel",
     "Descent into Avernus/Campaign Log/Act 3 - Avernus",
     "Descent into Avernus/Campaign Log/Act 2 - Elturel Has Fallen",
-    "Descent into Avernus/Campaign Log/Act 1 - A Tale of Two Cities",
-    "World/Rules",
-    "Dalelands/Campaign Log/Session 1 - To New Beginnings.md.tmp.26648.a026d490a4ab",
-    "Descent into Avernus/NPCs/The Caravan",
-    "Descent into Avernus/Items",
     "Untitled.canvas",
     "Campaign Log/Untitled.canvas"
   ]

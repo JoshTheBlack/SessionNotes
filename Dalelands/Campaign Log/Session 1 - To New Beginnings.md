@@ -25,7 +25,7 @@ A man named [[Rolf Twirtho]] approaches and asks for help finding his brother, [
 The people the moon showed me are [[Brok Digginstone]], a dwarven bard who was playing bagpipes as I arrived; [[Havelin Alderhilts]], an elven ranger celebrating an orc he killed earlier today saving Shadowdale; and [[Teager]], an elven wizard looking bedraggled and threadbare. A flock, then. Mine to shepherd, whether they know it or not.
 
 ## The Broken Bridge
-We set out. I put on a cloak and pretend to carry the ransom. Our destination is a ruined tower bridge: the towers still stand on either side of a creek, but the bridge between them is long gone. It's about a three-hour walk from [[Shadowdale]]. The journey is uneventful, as the best ones are.
+We set out, [[Offsha Di'aylen|Offsha]] walking with us in his plate. I put on a cloak and pretend to carry the ransom. Our destination is a ruined tower bridge: the towers still stand on either side of a creek, but the bridge between them is long gone. It's about a three-hour walk from [[Shadowdale]]. The journey is uneventful, as the best ones are.
 
 I approach the near tower alone, deadly silent. I hear voices within, so I creep close to a window to look in. Logs have been laid across the creek, giving passage from one bank to the other.
 
@@ -36,10 +36,10 @@ I start casting one of my cantrips, Druidcraft, and snuff their torches out one 
 [[Teager]] casts a firebolt at one, and I finish him off with [[Sacred Flame]]. [[Havelin Alderhilts]] and [[Brok Digginstone]] step inside and press the attack. I hit another with Sacred Flame. [[Havelin Alderhilts|Havelin]] and [[Teager]] finish the last two.
 
 ## Below the Creek
-We quickly scout this floor. When we find a staircase down, I tell the crew to watch my six and slip down the stairs.
+We quickly scout this floor. A knight in full plate does not belong in a dungeon where we mean to keep quiet, so [[Offsha Di'aylen|Offsha]] stays up top as our lookout. When we find a staircase down, I tell the crew to watch my six and slip down the stairs.
 
 Below are hallways, apparently empty. We check behind the doors, as quiet and swift as we can manage. [[Brok Digginstone]] finds 26 pp, 120 gp, 630 sp, 380 cp, six tigereye gems (10 gp each), a potion of climbing, and a scroll of see invisibility.
 
-The hallway runs a long way, seemingly under the creek. Just before the staircase on the far end, there's a room on the left. Inside, behind bars, we find [[Adon Twirtho]].
+The hallway runs a long way, seemingly under the creek. At the halfway point, two stairways lead further down. Just before the staircase on the far end, there's a room on the left. Inside, behind bars, we find [[Adon Twirtho]].
 
 #session

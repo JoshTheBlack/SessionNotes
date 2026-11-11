@@ -21,6 +21,6 @@ The party's shared treasure and gear. Items are crossed off when a character tak
 |---|---|---|
 | All of the above | A storeroom below [[The Broken Tower Bridge]] | [[Brok Digginstone]] |
 
-See [[Session 1 - To New Beginnings]].
+See [[Session 1 - To New Beginnings]]. No loot was taken in [[Session 2]].
 
 #inventory

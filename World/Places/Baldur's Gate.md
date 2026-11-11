@@ -5,3 +5,6 @@ The Mos Eisley of the Sword Coast, a seaside city scourged by vipers and villain
 
 > [!info]- Lore
 > Baldur's Gate is the largest city on the Sword Coast, ruled by the Council of Four and guarded by the Flaming Fist mercenary army.
+
+> [!info]- Exiles in the Dales
+> In the Dalelands campaign, [[Mardon Rueh]] and [[Wendy Rueh]], from a wealthy aristocratic family that fled after rumors called them devil worshippers, turned up in a ruined tower near [[Shadowdale]] in [[Session 2]].
